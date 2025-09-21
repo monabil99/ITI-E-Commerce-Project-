@@ -1,0 +1,2243 @@
+CustomerSK,Recency,Frequency,Monetary,Segment,SegmentName
+6,788,1,428558.16,0,Inactive Customers
+7,761,1,361370.17,0,Inactive Customers
+10,642,1,408921.9,3,Potential Returning Customers
+11,73,3,1439024.82,1,VIP Customers
+12,1036,2,819356.55,2,Loyal Customers
+13,1173,1,572156.28,0,Inactive Customers
+14,186,1,377388.67,3,Potential Returning Customers
+16,671,2,683643.25,2,Loyal Customers
+17,783,1,361653.54,0,Inactive Customers
+19,1056,1,577390.37,0,Inactive Customers
+25,168,1,305844.41,3,Potential Returning Customers
+26,361,1,423306.76,3,Potential Returning Customers
+28,267,1,352215.36,3,Potential Returning Customers
+29,1292,1,459162.08,0,Inactive Customers
+31,994,1,414827.64,0,Inactive Customers
+33,666,1,446748.6,3,Potential Returning Customers
+38,79,2,779769.48,2,Loyal Customers
+39,28,2,515386.36,2,Loyal Customers
+43,139,2,814901.02,2,Loyal Customers
+44,1328,1,471120.1,0,Inactive Customers
+46,781,1,355612.54,0,Inactive Customers
+49,503,3,1039114.87,1,VIP Customers
+50,934,1,320536.15,0,Inactive Customers
+52,869,1,249786.48,0,Inactive Customers
+53,562,1,519257.83,3,Potential Returning Customers
+55,1005,1,299763.42,0,Inactive Customers
+57,514,1,468851.39,3,Potential Returning Customers
+62,24,2,839231.84,2,Loyal Customers
+64,1026,1,223402.38,0,Inactive Customers
+67,338,1,233522.6,3,Potential Returning Customers
+68,1230,1,532296.26,0,Inactive Customers
+71,96,1,317402.87,3,Potential Returning Customers
+73,24,1,464814.69,3,Potential Returning Customers
+74,568,3,1455414.85,1,VIP Customers
+76,626,2,641984.63,2,Loyal Customers
+77,310,3,1566513.01,1,VIP Customers
+79,202,1,387457.46,3,Potential Returning Customers
+80,822,1,272192.42,0,Inactive Customers
+82,365,2,744559.43,2,Loyal Customers
+83,1269,1,531495.08,0,Inactive Customers
+84,926,1,444279.35,0,Inactive Customers
+86,511,1,621902.29,3,Potential Returning Customers
+87,277,1,446539.19,3,Potential Returning Customers
+89,541,1,346432.61,3,Potential Returning Customers
+90,1162,1,494325.74,0,Inactive Customers
+92,1167,1,496807.89,0,Inactive Customers
+93,543,1,616674.49,3,Potential Returning Customers
+95,637,1,450854.11,3,Potential Returning Customers
+101,468,1,317414.39,3,Potential Returning Customers
+103,758,1,557948.38,0,Inactive Customers
+104,610,2,567952.8,2,Loyal Customers
+105,454,1,455462.89,3,Potential Returning Customers
+107,19,1,655169.99,3,Potential Returning Customers
+108,583,2,912336.64,2,Loyal Customers
+109,433,2,926977.55,2,Loyal Customers
+110,840,1,246358.83,0,Inactive Customers
+112,1014,1,344422.49,0,Inactive Customers
+113,824,1,469121.62,0,Inactive Customers
+115,151,1,308699.9,3,Potential Returning Customers
+118,529,2,940027.34,2,Loyal Customers
+119,130,4,1495608.09,1,VIP Customers
+122,849,1,371609.17,0,Inactive Customers
+128,313,1,399474.82,3,Potential Returning Customers
+129,500,3,1195339.68,1,VIP Customers
+131,53,2,849166.23,2,Loyal Customers
+132,1152,1,284590.18,0,Inactive Customers
+135,1196,1,494406,0,Inactive Customers
+137,82,2,1051858.63,2,Loyal Customers
+139,257,1,363121.67,3,Potential Returning Customers
+141,385,4,1680502.1,1,VIP Customers
+142,6,3,1190169.46,1,VIP Customers
+143,363,2,713877.92,2,Loyal Customers
+144,214,2,904423.15,2,Loyal Customers
+145,202,1,408606.99,3,Potential Returning Customers
+147,8,1,392968.51,3,Potential Returning Customers
+148,860,2,852673.47,2,Loyal Customers
+153,1323,1,382508.85,0,Inactive Customers
+155,692,1,293450.3,3,Potential Returning Customers
+163,131,2,722877.57,2,Loyal Customers
+164,1333,1,315021.83,0,Inactive Customers
+166,238,1,391266.41,3,Potential Returning Customers
+168,947,2,1028273.22,2,Loyal Customers
+169,280,2,851626.21,2,Loyal Customers
+173,196,1,474701.09,3,Potential Returning Customers
+177,738,2,792329.7,2,Loyal Customers
+178,612,1,590030.56,3,Potential Returning Customers
+180,98,2,840305.32,2,Loyal Customers
+181,169,2,1195262.93,2,Loyal Customers
+184,1234,1,316850.3,0,Inactive Customers
+185,260,2,895432.54,2,Loyal Customers
+187,338,1,380548.69,3,Potential Returning Customers
+188,1407,1,481481.87,0,Inactive Customers
+196,713,2,965561.76,2,Loyal Customers
+197,687,1,668476.07,3,Potential Returning Customers
+199,850,2,887193.49,2,Loyal Customers
+203,124,1,266049.02,3,Potential Returning Customers
+207,873,1,302153.95,0,Inactive Customers
+212,737,1,492899.75,0,Inactive Customers
+214,547,1,331492.1,3,Potential Returning Customers
+215,469,3,1342786.77,1,VIP Customers
+216,509,1,401708.76,3,Potential Returning Customers
+217,238,3,1426364.31,1,VIP Customers
+218,1276,1,355547.46,0,Inactive Customers
+219,278,2,740745.42,2,Loyal Customers
+220,5,1,379837.9,3,Potential Returning Customers
+225,239,1,515986.08,3,Potential Returning Customers
+226,1254,1,366356.29,0,Inactive Customers
+228,51,2,745699.31,2,Loyal Customers
+230,266,1,438344.79,3,Potential Returning Customers
+235,1384,1,499567.44,0,Inactive Customers
+237,675,1,458256.16,3,Potential Returning Customers
+239,1299,1,380320.51,0,Inactive Customers
+241,537,1,303321.73,3,Potential Returning Customers
+245,149,1,401775.85,3,Potential Returning Customers
+247,381,2,791377.54,2,Loyal Customers
+248,1083,1,474370.59,0,Inactive Customers
+253,492,1,516882.26,3,Potential Returning Customers
+255,472,1,478058.98,3,Potential Returning Customers
+257,429,2,892508.34,2,Loyal Customers
+258,48,2,800451.44,2,Loyal Customers
+260,62,2,713920.71,2,Loyal Customers
+261,448,1,456137.9,3,Potential Returning Customers
+265,1337,1,543165.55,0,Inactive Customers
+267,304,2,745328.1,2,Loyal Customers
+270,122,1,409634.79,3,Potential Returning Customers
+273,1387,1,374654.79,0,Inactive Customers
+274,1248,1,495268.81,0,Inactive Customers
+277,303,2,676548.62,2,Loyal Customers
+278,1127,1,481006.26,0,Inactive Customers
+282,632,2,822322.05,2,Loyal Customers
+283,694,1,383060.19,3,Potential Returning Customers
+284,1227,1,548470.03,0,Inactive Customers
+286,756,1,234792.61,0,Inactive Customers
+288,1305,1,536334.48,0,Inactive Customers
+290,265,1,323162.99,3,Potential Returning Customers
+291,177,1,408442.35,3,Potential Returning Customers
+292,97,2,858599.36,2,Loyal Customers
+298,457,1,347671.26,3,Potential Returning Customers
+308,9,1,542976.98,3,Potential Returning Customers
+312,168,1,411777.64,3,Potential Returning Customers
+313,644,2,584582.01,2,Loyal Customers
+314,1234,1,212122.72,0,Inactive Customers
+315,898,1,439344.89,0,Inactive Customers
+318,87,2,1020656.13,2,Loyal Customers
+319,443,1,537934.39,3,Potential Returning Customers
+322,938,1,545513.62,0,Inactive Customers
+323,581,2,812849.87,2,Loyal Customers
+324,857,1,691308.52,0,Inactive Customers
+325,473,2,644545.7,2,Loyal Customers
+326,776,1,531123.83,0,Inactive Customers
+327,707,1,443757.85,3,Potential Returning Customers
+328,128,2,1079212.97,2,Loyal Customers
+329,182,2,888017.82,2,Loyal Customers
+330,496,2,1091857.48,2,Loyal Customers
+331,1096,1,467640.1,0,Inactive Customers
+334,761,1,744925.26,0,Inactive Customers
+335,455,1,363018.61,3,Potential Returning Customers
+336,143,3,1576380.16,1,VIP Customers
+339,15,1,262746.4,3,Potential Returning Customers
+340,1257,1,427884.5,0,Inactive Customers
+342,714,1,350312.35,3,Potential Returning Customers
+345,480,2,992114.17,2,Loyal Customers
+346,40,1,476317.46,3,Potential Returning Customers
+347,1377,2,1081127.73,2,Loyal Customers
+349,499,3,1428199.2,1,VIP Customers
+350,146,3,1634348.26,1,VIP Customers
+353,115,1,745978.44,3,Potential Returning Customers
+354,971,1,446241.31,0,Inactive Customers
+357,1318,1,509192.93,0,Inactive Customers
+360,573,1,487910.18,3,Potential Returning Customers
+369,1321,1,236455.46,0,Inactive Customers
+377,206,2,908200.36,2,Loyal Customers
+378,623,1,328512.55,3,Potential Returning Customers
+381,183,2,915631.83,2,Loyal Customers
+384,1163,1,373589.38,0,Inactive Customers
+387,161,1,540280.72,3,Potential Returning Customers
+388,511,3,1194773.08,1,VIP Customers
+389,576,1,382728.66,3,Potential Returning Customers
+390,574,2,1263516.25,2,Loyal Customers
+391,559,1,527643.39,3,Potential Returning Customers
+397,1264,1,396964.85,0,Inactive Customers
+403,570,1,580270.11,3,Potential Returning Customers
+404,345,2,842819.08,2,Loyal Customers
+405,155,2,847318.61,2,Loyal Customers
+407,712,1,301425.23,3,Potential Returning Customers
+409,484,1,400040.11,3,Potential Returning Customers
+414,1205,1,434657.81,0,Inactive Customers
+418,396,1,403940.82,3,Potential Returning Customers
+419,226,1,382595.92,3,Potential Returning Customers
+421,342,1,336761.33,3,Potential Returning Customers
+426,115,1,300593.67,3,Potential Returning Customers
+430,658,2,791570.79,2,Loyal Customers
+433,424,1,326100.63,3,Potential Returning Customers
+439,418,1,397244.36,3,Potential Returning Customers
+441,878,1,403903.47,0,Inactive Customers
+446,1389,1,169578.05,0,Inactive Customers
+450,559,1,339914.79,3,Potential Returning Customers
+458,1395,1,704599.62,0,Inactive Customers
+459,219,1,486121.49,3,Potential Returning Customers
+460,969,2,724825.51,2,Loyal Customers
+461,530,1,460700.97,3,Potential Returning Customers
+464,76,1,356136.18,3,Potential Returning Customers
+468,734,2,749171.85,2,Loyal Customers
+469,1306,1,391820.97,0,Inactive Customers
+472,982,1,429596.03,0,Inactive Customers
+473,844,1,422660.68,0,Inactive Customers
+476,263,2,898687.19,2,Loyal Customers
+477,395,3,1158898.25,1,VIP Customers
+483,1296,1,428038.33,0,Inactive Customers
+484,205,3,1093739.18,1,VIP Customers
+488,333,1,436991.04,3,Potential Returning Customers
+490,85,1,459875.67,3,Potential Returning Customers
+491,823,1,601104.14,0,Inactive Customers
+494,783,2,871835.41,2,Loyal Customers
+495,984,1,454501.56,0,Inactive Customers
+496,865,1,422232.72,0,Inactive Customers
+498,1310,1,312784.07,0,Inactive Customers
+499,146,2,1080470.98,2,Loyal Customers
+501,824,1,696334.23,0,Inactive Customers
+502,645,2,833341.82,2,Loyal Customers
+504,1248,2,967744.02,2,Loyal Customers
+505,332,1,351359.24,3,Potential Returning Customers
+506,463,2,647536.08,2,Loyal Customers
+507,803,2,834932.57,2,Loyal Customers
+512,660,1,533128,3,Potential Returning Customers
+514,270,2,713203.91,2,Loyal Customers
+517,1348,1,251868.21,0,Inactive Customers
+519,1296,1,343298.04,0,Inactive Customers
+520,267,1,564112.62,3,Potential Returning Customers
+523,1341,1,543456.61,0,Inactive Customers
+524,221,3,1290369.65,1,VIP Customers
+526,506,1,347003.61,3,Potential Returning Customers
+528,407,1,495629.46,3,Potential Returning Customers
+529,74,2,964812.53,2,Loyal Customers
+530,1107,2,525495.07,0,Inactive Customers
+537,1130,1,545243.58,0,Inactive Customers
+540,934,1,343709.78,0,Inactive Customers
+543,807,1,427928.79,0,Inactive Customers
+545,1351,1,147561.38,0,Inactive Customers
+550,497,1,420649.06,3,Potential Returning Customers
+553,200,1,424180.73,3,Potential Returning Customers
+554,928,1,306634.85,0,Inactive Customers
+555,289,3,1168246.56,1,VIP Customers
+556,6,3,1369288.29,1,VIP Customers
+557,109,1,271167.21,3,Potential Returning Customers
+558,942,1,414867.79,0,Inactive Customers
+560,177,2,729478.47,2,Loyal Customers
+561,1295,1,464303.93,0,Inactive Customers
+563,487,1,447268.74,3,Potential Returning Customers
+564,1030,1,304968.8,0,Inactive Customers
+569,232,1,238168.84,3,Potential Returning Customers
+575,381,1,445130.17,3,Potential Returning Customers
+576,1382,1,338645.55,0,Inactive Customers
+579,140,2,775005.26,2,Loyal Customers
+580,1342,1,479114.08,0,Inactive Customers
+581,809,1,560615.37,0,Inactive Customers
+585,876,1,418812.89,0,Inactive Customers
+588,135,1,408092.25,3,Potential Returning Customers
+589,973,1,434739.01,0,Inactive Customers
+590,802,1,406692.18,0,Inactive Customers
+592,1276,1,482917.06,0,Inactive Customers
+598,431,1,367952.46,3,Potential Returning Customers
+603,492,1,350323.23,3,Potential Returning Customers
+604,47,1,394989.92,3,Potential Returning Customers
+605,693,1,345259.39,3,Potential Returning Customers
+608,81,1,569280.85,3,Potential Returning Customers
+609,429,2,923246.72,2,Loyal Customers
+610,148,2,567820.85,2,Loyal Customers
+611,986,1,477241.82,0,Inactive Customers
+613,1092,1,474944.72,0,Inactive Customers
+614,1053,1,500665.74,0,Inactive Customers
+615,259,1,469250.57,3,Potential Returning Customers
+616,172,1,582494.22,3,Potential Returning Customers
+619,1310,1,410038.33,0,Inactive Customers
+620,1017,2,863539.83,2,Loyal Customers
+621,147,2,769857.34,2,Loyal Customers
+625,1307,1,355944.48,0,Inactive Customers
+626,259,1,562927.14,3,Potential Returning Customers
+631,494,2,1036517.63,2,Loyal Customers
+632,175,1,316585.6,3,Potential Returning Customers
+633,318,1,292884.93,3,Potential Returning Customers
+634,731,1,362495.72,0,Inactive Customers
+635,498,2,827828.5,2,Loyal Customers
+636,943,1,332507.09,0,Inactive Customers
+644,1050,1,317481.3,0,Inactive Customers
+645,673,1,470814.62,3,Potential Returning Customers
+648,937,2,714824.65,2,Loyal Customers
+650,1370,1,384593.8,0,Inactive Customers
+654,665,1,636405.03,3,Potential Returning Customers
+655,552,1,316509.34,3,Potential Returning Customers
+658,94,2,703151.14,2,Loyal Customers
+660,619,2,879896.45,2,Loyal Customers
+662,950,1,297207.5,0,Inactive Customers
+663,7,2,927305.15,2,Loyal Customers
+664,964,1,386865.45,0,Inactive Customers
+666,3,2,820880.84,2,Loyal Customers
+668,429,2,877346.5,2,Loyal Customers
+671,523,1,357009.45,3,Potential Returning Customers
+677,603,2,904049.47,2,Loyal Customers
+678,137,1,386097.11,3,Potential Returning Customers
+682,675,1,344002.85,3,Potential Returning Customers
+684,205,1,608030.66,3,Potential Returning Customers
+686,1080,1,315945.92,0,Inactive Customers
+687,874,2,733511.93,2,Loyal Customers
+692,658,2,966363.62,2,Loyal Customers
+695,59,2,877949.06,2,Loyal Customers
+697,296,1,383012.1,3,Potential Returning Customers
+699,8,1,296441.42,3,Potential Returning Customers
+701,264,1,285478.5,3,Potential Returning Customers
+702,380,1,462014.37,3,Potential Returning Customers
+706,1317,1,309927.45,0,Inactive Customers
+709,568,1,502942.48,3,Potential Returning Customers
+710,1179,1,278288.01,0,Inactive Customers
+711,1420,1,600760.29,0,Inactive Customers
+713,1418,1,392544.23,0,Inactive Customers
+714,734,1,428438.42,0,Inactive Customers
+717,305,2,667932.86,2,Loyal Customers
+725,636,1,428580.93,3,Potential Returning Customers
+731,40,1,458757.32,3,Potential Returning Customers
+732,622,1,387889.64,3,Potential Returning Customers
+735,789,2,1163433.13,2,Loyal Customers
+738,174,1,412443.18,3,Potential Returning Customers
+739,388,2,768160.77,2,Loyal Customers
+740,897,1,417539.74,0,Inactive Customers
+742,945,1,395222.35,0,Inactive Customers
+744,1041,1,327201.97,0,Inactive Customers
+745,849,2,795049.87,2,Loyal Customers
+747,348,2,929877.16,2,Loyal Customers
+749,582,1,415456.55,3,Potential Returning Customers
+750,311,2,999782.55,2,Loyal Customers
+751,620,1,395871.63,3,Potential Returning Customers
+753,1181,1,454281.63,0,Inactive Customers
+754,634,3,1034651.28,1,VIP Customers
+756,591,1,234805.74,3,Potential Returning Customers
+758,1215,1,414340.1,0,Inactive Customers
+759,1359,1,584327.25,0,Inactive Customers
+762,715,1,195122.84,3,Potential Returning Customers
+767,1161,1,391327.06,0,Inactive Customers
+768,871,1,380151.67,0,Inactive Customers
+769,485,1,443294.46,3,Potential Returning Customers
+770,445,1,411170.68,3,Potential Returning Customers
+773,870,1,340857.35,0,Inactive Customers
+776,729,1,373874.88,0,Inactive Customers
+778,1181,1,286557.75,0,Inactive Customers
+781,370,2,695450.92,2,Loyal Customers
+784,813,2,677458.51,2,Loyal Customers
+785,463,1,423206.74,3,Potential Returning Customers
+786,172,1,369356.77,3,Potential Returning Customers
+788,735,1,368478.31,0,Inactive Customers
+789,574,1,412728.09,3,Potential Returning Customers
+790,683,1,365654.3,3,Potential Returning Customers
+791,119,1,423217.32,3,Potential Returning Customers
+794,84,2,882042.48,2,Loyal Customers
+795,1037,1,483464.94,0,Inactive Customers
+796,1069,1,326641.95,0,Inactive Customers
+800,592,1,378414.38,3,Potential Returning Customers
+802,359,2,1027036.04,2,Loyal Customers
+807,294,1,405991.64,3,Potential Returning Customers
+808,74,3,1071375.38,1,VIP Customers
+809,389,1,444385.85,3,Potential Returning Customers
+811,115,1,587468.89,3,Potential Returning Customers
+812,1324,1,524124.53,0,Inactive Customers
+813,1393,1,434197.2,0,Inactive Customers
+814,965,1,365874.44,0,Inactive Customers
+816,1121,2,894840.27,2,Loyal Customers
+817,87,1,398245.09,3,Potential Returning Customers
+818,865,1,548275.99,0,Inactive Customers
+820,847,1,336944.58,0,Inactive Customers
+823,1029,1,391884.62,0,Inactive Customers
+830,454,2,1033096.68,2,Loyal Customers
+832,176,1,361359.83,3,Potential Returning Customers
+836,407,1,325090.95,3,Potential Returning Customers
+845,210,1,308686.13,3,Potential Returning Customers
+846,1,2,1010091.54,2,Loyal Customers
+851,487,2,930832.65,2,Loyal Customers
+853,802,1,380561.46,0,Inactive Customers
+855,866,1,351418.37,0,Inactive Customers
+856,482,2,1135056.24,2,Loyal Customers
+857,34,1,511416.57,3,Potential Returning Customers
+860,953,1,400858.52,0,Inactive Customers
+861,605,2,624614.39,2,Loyal Customers
+864,855,2,748241.41,2,Loyal Customers
+865,290,2,739189.48,2,Loyal Customers
+868,984,1,432426.7,0,Inactive Customers
+869,740,1,351970.28,0,Inactive Customers
+870,128,1,504000.72,3,Potential Returning Customers
+875,1052,1,405065.83,0,Inactive Customers
+877,1420,1,422492.43,0,Inactive Customers
+879,430,1,362788.07,3,Potential Returning Customers
+880,906,2,764361.18,2,Loyal Customers
+883,1416,1,412024.67,0,Inactive Customers
+886,239,1,178895.48,3,Potential Returning Customers
+890,151,2,695186.47,2,Loyal Customers
+891,597,2,988963.37,2,Loyal Customers
+892,981,2,685216.69,2,Loyal Customers
+893,483,4,1420182.62,1,VIP Customers
+894,334,3,1255158.19,1,VIP Customers
+895,867,1,414042.53,0,Inactive Customers
+896,1258,1,642438.94,0,Inactive Customers
+898,1185,1,398221.96,0,Inactive Customers
+901,1101,1,343815.76,0,Inactive Customers
+902,864,1,381203.8,0,Inactive Customers
+903,824,1,502129.26,0,Inactive Customers
+904,1278,1,449106.81,0,Inactive Customers
+905,892,1,332399.3,0,Inactive Customers
+907,85,2,881453.36,2,Loyal Customers
+908,159,1,551673.87,3,Potential Returning Customers
+912,221,1,558244.53,3,Potential Returning Customers
+913,607,1,534764.44,3,Potential Returning Customers
+915,581,1,478478.39,3,Potential Returning Customers
+918,862,2,1126216.67,2,Loyal Customers
+923,152,2,912128.63,2,Loyal Customers
+924,1225,1,282042.54,0,Inactive Customers
+927,118,1,280036.71,3,Potential Returning Customers
+929,1284,1,318210.22,0,Inactive Customers
+931,2,2,990296.95,2,Loyal Customers
+933,1122,1,355280.41,0,Inactive Customers
+939,111,3,1226024.75,1,VIP Customers
+940,81,1,296382.47,3,Potential Returning Customers
+944,784,2,705012.07,2,Loyal Customers
+945,1025,1,419524.59,0,Inactive Customers
+946,561,1,272864.69,3,Potential Returning Customers
+947,1184,1,488946.63,0,Inactive Customers
+951,1352,1,505031.75,0,Inactive Customers
+954,1402,1,496063.46,0,Inactive Customers
+956,774,2,825770.24,2,Loyal Customers
+958,157,2,653463.34,2,Loyal Customers
+959,689,1,336771.74,3,Potential Returning Customers
+963,830,1,545822.27,0,Inactive Customers
+964,680,1,428671.01,3,Potential Returning Customers
+965,507,1,578607.88,3,Potential Returning Customers
+967,664,1,173145.83,3,Potential Returning Customers
+970,403,1,400170.47,3,Potential Returning Customers
+972,671,3,1378564.89,1,VIP Customers
+976,634,1,537090.55,3,Potential Returning Customers
+979,593,1,385306.87,3,Potential Returning Customers
+980,1081,2,834787.67,2,Loyal Customers
+982,1308,1,332130.06,0,Inactive Customers
+984,1265,1,670595.83,0,Inactive Customers
+985,326,2,683548.29,2,Loyal Customers
+986,1395,1,399462.36,0,Inactive Customers
+990,355,1,502135.38,3,Potential Returning Customers
+991,239,1,360719.33,3,Potential Returning Customers
+993,758,2,832665.42,2,Loyal Customers
+999,840,1,425677.75,0,Inactive Customers
+1002,1388,1,346707.19,0,Inactive Customers
+1006,596,1,340029.28,3,Potential Returning Customers
+1007,446,2,803101.98,2,Loyal Customers
+1011,573,2,792172.87,2,Loyal Customers
+1012,712,1,388581.16,3,Potential Returning Customers
+1014,206,1,361405.98,3,Potential Returning Customers
+1016,1213,1,368033.76,0,Inactive Customers
+1018,850,1,516573.8,0,Inactive Customers
+1020,573,1,322105.55,3,Potential Returning Customers
+1022,1147,1,381146.53,0,Inactive Customers
+1023,1067,1,315408.48,0,Inactive Customers
+1024,192,2,893693.01,2,Loyal Customers
+1026,1035,1,449405.07,0,Inactive Customers
+1028,25,2,783147.61,2,Loyal Customers
+1035,283,1,511085.73,3,Potential Returning Customers
+1039,807,2,831266.97,2,Loyal Customers
+1040,481,1,335548.06,3,Potential Returning Customers
+1043,1328,1,349637.44,0,Inactive Customers
+1044,516,3,1123930.13,1,VIP Customers
+1045,374,1,365861.18,3,Potential Returning Customers
+1046,446,1,439554.03,3,Potential Returning Customers
+1052,685,1,363056.12,3,Potential Returning Customers
+1055,448,1,363060.99,3,Potential Returning Customers
+1056,1210,1,508937.57,0,Inactive Customers
+1057,220,2,680574.79,2,Loyal Customers
+1058,246,1,496944.79,3,Potential Returning Customers
+1059,861,1,306414.93,0,Inactive Customers
+1060,86,3,1234760.66,1,VIP Customers
+1061,37,2,716338.36,2,Loyal Customers
+1065,390,1,518355.79,3,Potential Returning Customers
+1070,375,1,298317.24,3,Potential Returning Customers
+1071,1017,1,431108.17,0,Inactive Customers
+1074,95,1,285323.28,3,Potential Returning Customers
+1075,1035,1,374264.34,0,Inactive Customers
+1077,339,2,1104087.98,2,Loyal Customers
+1079,1012,1,462887.79,0,Inactive Customers
+1080,291,4,1519019.13,1,VIP Customers
+1082,1401,1,335083.44,0,Inactive Customers
+1083,917,1,547381.78,0,Inactive Customers
+1084,160,1,348839.6,3,Potential Returning Customers
+1085,807,1,481790.75,0,Inactive Customers
+1087,196,2,747653.27,2,Loyal Customers
+1089,493,1,343718.75,3,Potential Returning Customers
+1091,1086,1,541982.27,0,Inactive Customers
+1109,71,1,408977.96,3,Potential Returning Customers
+1111,977,1,354893.33,0,Inactive Customers
+1112,414,1,470937.8,3,Potential Returning Customers
+1116,491,1,410104.19,3,Potential Returning Customers
+1119,1021,1,536742.46,0,Inactive Customers
+1123,822,1,427613.73,0,Inactive Customers
+1124,264,2,787844.99,2,Loyal Customers
+1125,485,2,819970.53,2,Loyal Customers
+1126,412,1,328810.36,3,Potential Returning Customers
+1132,280,1,362577.68,3,Potential Returning Customers
+1135,1170,1,377382.5,0,Inactive Customers
+1137,284,1,353892,3,Potential Returning Customers
+1139,1341,1,470988.89,0,Inactive Customers
+1141,576,1,416282.72,3,Potential Returning Customers
+1142,624,1,656930.41,3,Potential Returning Customers
+1144,336,2,852902.41,2,Loyal Customers
+1146,58,3,1345853.41,1,VIP Customers
+1147,1352,1,373068.68,0,Inactive Customers
+1151,6,1,492818.79,3,Potential Returning Customers
+1153,85,1,428390.57,3,Potential Returning Customers
+1164,1059,1,316043.18,0,Inactive Customers
+1165,57,1,328301.31,3,Potential Returning Customers
+1166,144,1,292068.18,3,Potential Returning Customers
+1167,20,1,331718.56,3,Potential Returning Customers
+1170,1067,2,892386.05,2,Loyal Customers
+1172,678,1,434637.51,3,Potential Returning Customers
+1174,457,1,516099.99,3,Potential Returning Customers
+1180,833,1,514646.17,0,Inactive Customers
+1183,443,1,487994.75,3,Potential Returning Customers
+1185,1102,1,425077.59,0,Inactive Customers
+1186,369,2,942435.33,2,Loyal Customers
+1187,335,1,347153.82,3,Potential Returning Customers
+1188,1108,1,379960.29,0,Inactive Customers
+1189,271,1,385100.05,3,Potential Returning Customers
+1191,543,2,817786.77,2,Loyal Customers
+1193,772,1,359903.5,0,Inactive Customers
+1194,988,1,375325.94,0,Inactive Customers
+1196,608,2,870832.89,2,Loyal Customers
+1198,500,2,807724.34,2,Loyal Customers
+1199,687,1,247365.82,3,Potential Returning Customers
+1200,244,1,544585.59,3,Potential Returning Customers
+1204,473,1,372256.68,3,Potential Returning Customers
+1205,1018,1,728285.14,0,Inactive Customers
+1207,157,1,256595.7,3,Potential Returning Customers
+1208,577,1,411056.19,3,Potential Returning Customers
+1209,956,2,783787.55,2,Loyal Customers
+1210,784,2,911955.15,2,Loyal Customers
+1211,267,1,426587.7,3,Potential Returning Customers
+1215,49,1,460825.42,3,Potential Returning Customers
+1219,1191,1,429688.41,0,Inactive Customers
+1223,919,1,353768.18,0,Inactive Customers
+1224,1245,1,310156.48,0,Inactive Customers
+1225,340,1,407285.22,3,Potential Returning Customers
+1227,999,1,407471.57,0,Inactive Customers
+1233,239,1,563925.74,3,Potential Returning Customers
+1234,134,2,761096.91,2,Loyal Customers
+1235,632,1,346048.21,3,Potential Returning Customers
+1236,255,1,623513.16,3,Potential Returning Customers
+1237,1204,1,547802.85,0,Inactive Customers
+1242,420,1,485208.76,3,Potential Returning Customers
+1245,542,1,500340.15,3,Potential Returning Customers
+1248,626,2,760477.04,2,Loyal Customers
+1249,989,1,396336.74,0,Inactive Customers
+1250,146,2,904372.21,2,Loyal Customers
+1251,134,2,937961.29,2,Loyal Customers
+1252,180,1,494122,3,Potential Returning Customers
+1256,150,2,935122.1,2,Loyal Customers
+1261,1398,1,435070.99,0,Inactive Customers
+1266,581,1,441031.46,3,Potential Returning Customers
+1269,274,3,1322123.21,1,VIP Customers
+1270,808,1,509154.8,0,Inactive Customers
+1274,81,3,1364840.48,1,VIP Customers
+1276,422,1,400622.58,3,Potential Returning Customers
+1277,1042,1,521774.7,0,Inactive Customers
+1283,545,1,524830.39,3,Potential Returning Customers
+1287,1099,1,357424.68,0,Inactive Customers
+1288,1136,1,377515.38,0,Inactive Customers
+1290,1125,1,277589.41,0,Inactive Customers
+1292,280,1,374541.85,3,Potential Returning Customers
+1293,595,1,399526.7,3,Potential Returning Customers
+1297,1019,1,614638.97,0,Inactive Customers
+1298,1320,1,208132.6,0,Inactive Customers
+1299,53,1,421273.73,3,Potential Returning Customers
+1301,814,1,302060.41,0,Inactive Customers
+1303,1069,1,597704.65,0,Inactive Customers
+1304,684,1,523614.35,3,Potential Returning Customers
+1305,589,1,312496.8,3,Potential Returning Customers
+1307,389,3,1091663.28,1,VIP Customers
+1310,1418,1,449310.75,0,Inactive Customers
+1312,786,1,429831.7,0,Inactive Customers
+1315,1007,2,836577.2,2,Loyal Customers
+1317,946,1,585035,0,Inactive Customers
+1319,175,1,305375.76,3,Potential Returning Customers
+1320,1187,1,599296.17,0,Inactive Customers
+1323,173,3,1188438.68,1,VIP Customers
+1326,323,1,492245.09,3,Potential Returning Customers
+1328,1027,1,383153.24,0,Inactive Customers
+1332,781,1,650416.91,0,Inactive Customers
+1336,1197,1,502660.95,0,Inactive Customers
+1337,286,1,598187.43,3,Potential Returning Customers
+1338,505,1,416681.86,3,Potential Returning Customers
+1340,1095,1,519052.29,0,Inactive Customers
+1341,664,1,524037.41,3,Potential Returning Customers
+1343,853,2,705738.01,2,Loyal Customers
+1346,185,1,588193.27,3,Potential Returning Customers
+1353,1318,1,516806.48,0,Inactive Customers
+1354,596,1,464283.09,3,Potential Returning Customers
+1356,574,1,459653.84,3,Potential Returning Customers
+1361,515,1,518263.99,3,Potential Returning Customers
+1363,300,1,512000.4,3,Potential Returning Customers
+1364,496,1,305104.26,3,Potential Returning Customers
+1365,684,2,854678.99,2,Loyal Customers
+1366,467,1,434542.12,3,Potential Returning Customers
+1373,394,1,405685.77,3,Potential Returning Customers
+1374,1212,1,454488.53,0,Inactive Customers
+1380,958,1,461795.91,0,Inactive Customers
+1381,577,3,1248612.86,1,VIP Customers
+1386,896,2,1071880.87,2,Loyal Customers
+1387,536,1,419218.12,3,Potential Returning Customers
+1388,505,1,458539.84,3,Potential Returning Customers
+1389,480,2,758197.57,2,Loyal Customers
+1391,935,1,394829.3,0,Inactive Customers
+1394,1140,1,350734.93,0,Inactive Customers
+1396,1369,1,467871.01,0,Inactive Customers
+1397,1093,1,428665.16,0,Inactive Customers
+1400,137,2,587280.26,2,Loyal Customers
+1401,354,1,447722.3,3,Potential Returning Customers
+1403,627,1,468943.8,3,Potential Returning Customers
+1404,657,2,898515.96,2,Loyal Customers
+1406,758,1,398964.22,0,Inactive Customers
+1408,1186,2,1032255.48,2,Loyal Customers
+1410,268,2,747293.66,2,Loyal Customers
+1412,692,1,506706.83,3,Potential Returning Customers
+1414,1214,1,543883.36,0,Inactive Customers
+1418,336,1,289269.3,3,Potential Returning Customers
+1421,460,1,528915.23,3,Potential Returning Customers
+1424,1018,1,354982.72,0,Inactive Customers
+1426,50,1,382220.52,3,Potential Returning Customers
+1427,837,2,853493.86,2,Loyal Customers
+1429,1256,1,408981.28,0,Inactive Customers
+1432,1306,1,309826.5,0,Inactive Customers
+1434,160,2,635579.61,2,Loyal Customers
+1436,1329,1,384476.49,0,Inactive Customers
+1437,1022,2,576941.34,2,Loyal Customers
+1440,1019,1,406416.02,0,Inactive Customers
+1443,174,1,292631.96,3,Potential Returning Customers
+1444,548,1,394395.22,3,Potential Returning Customers
+1448,666,1,501849.63,3,Potential Returning Customers
+1450,292,2,920108.51,2,Loyal Customers
+1452,450,1,413925.53,3,Potential Returning Customers
+1454,180,1,427458.44,3,Potential Returning Customers
+1456,152,2,727283.16,2,Loyal Customers
+1459,893,1,578710.77,0,Inactive Customers
+1462,22,1,492806.25,3,Potential Returning Customers
+1464,294,3,1377781.58,1,VIP Customers
+1467,253,1,460374.05,3,Potential Returning Customers
+1468,60,1,280757.51,3,Potential Returning Customers
+1469,489,1,473365.71,3,Potential Returning Customers
+1470,102,4,1947024.29,1,VIP Customers
+1471,1099,1,448918.67,0,Inactive Customers
+1473,28,2,716151.8,2,Loyal Customers
+1475,529,1,210639.98,3,Potential Returning Customers
+1476,822,1,637919.55,0,Inactive Customers
+1480,800,1,453277.91,0,Inactive Customers
+1481,246,2,670043.88,2,Loyal Customers
+1483,1276,1,443703.03,0,Inactive Customers
+1487,298,2,891694.22,2,Loyal Customers
+1489,1028,1,565163.09,0,Inactive Customers
+1490,576,1,508536.57,3,Potential Returning Customers
+1491,155,2,946993.41,2,Loyal Customers
+1496,786,2,698536.27,2,Loyal Customers
+1497,1282,1,504002.93,0,Inactive Customers
+1498,1198,1,464440.09,0,Inactive Customers
+1501,1347,1,451875.72,0,Inactive Customers
+1502,37,1,441428.05,3,Potential Returning Customers
+1508,328,2,737678.19,2,Loyal Customers
+1511,26,1,458830.07,3,Potential Returning Customers
+1513,846,1,363821.39,0,Inactive Customers
+1515,150,2,822094.1,2,Loyal Customers
+1517,885,2,427550.5,0,Inactive Customers
+1523,878,1,569526.44,0,Inactive Customers
+1525,613,1,420978.75,3,Potential Returning Customers
+1529,588,1,421632.69,3,Potential Returning Customers
+1530,607,1,308807.05,3,Potential Returning Customers
+1531,423,1,386252.06,3,Potential Returning Customers
+1534,248,1,284745.29,3,Potential Returning Customers
+1536,265,1,277551.36,3,Potential Returning Customers
+1538,154,1,420287,3,Potential Returning Customers
+1541,109,1,567847.87,3,Potential Returning Customers
+1544,911,1,373643.57,0,Inactive Customers
+1546,339,1,341106.51,3,Potential Returning Customers
+1548,146,3,1199174.88,1,VIP Customers
+1550,1307,1,572490.71,0,Inactive Customers
+1554,1119,1,222670.51,0,Inactive Customers
+1556,841,1,504945.2,0,Inactive Customers
+1557,127,1,340877.27,3,Potential Returning Customers
+1558,353,2,815691.2,2,Loyal Customers
+1559,1213,1,423118.87,0,Inactive Customers
+1560,1073,1,523838.29,0,Inactive Customers
+1566,566,1,356512.52,3,Potential Returning Customers
+1571,805,2,840167.81,2,Loyal Customers
+1572,858,1,457449.48,0,Inactive Customers
+1574,731,1,366847.32,0,Inactive Customers
+1575,1143,1,450527.74,0,Inactive Customers
+1576,636,1,478639.7,3,Potential Returning Customers
+1579,202,1,498965.83,3,Potential Returning Customers
+1580,615,1,233543.55,3,Potential Returning Customers
+1582,202,1,427208.3,3,Potential Returning Customers
+1583,1367,1,453697.52,0,Inactive Customers
+1585,364,2,977572.54,2,Loyal Customers
+1586,510,2,846075.26,2,Loyal Customers
+1587,989,1,519443.93,0,Inactive Customers
+1588,61,2,862387.24,2,Loyal Customers
+1589,295,2,825450.89,2,Loyal Customers
+1591,481,1,370087.12,3,Potential Returning Customers
+1593,622,2,507433.8,2,Loyal Customers
+1597,1405,1,377808.07,0,Inactive Customers
+1598,387,1,332448.36,3,Potential Returning Customers
+1602,1244,1,473441.22,0,Inactive Customers
+1603,644,3,1647543.05,1,VIP Customers
+1604,404,1,307526.07,3,Potential Returning Customers
+1605,13,1,398641.89,3,Potential Returning Customers
+1608,295,1,336190.89,3,Potential Returning Customers
+1611,1195,1,279785.4,0,Inactive Customers
+1613,479,1,467135.83,3,Potential Returning Customers
+1614,1052,1,488228.41,0,Inactive Customers
+1616,375,1,523024.05,3,Potential Returning Customers
+1617,1200,1,486062.93,0,Inactive Customers
+1618,176,1,286815.11,3,Potential Returning Customers
+1619,371,1,355391.88,3,Potential Returning Customers
+1620,786,2,824501.9,2,Loyal Customers
+1623,1315,1,437761.28,0,Inactive Customers
+1629,968,1,461597.32,0,Inactive Customers
+1633,707,1,345598.64,3,Potential Returning Customers
+1637,713,2,661112.24,2,Loyal Customers
+1638,162,1,637396.32,3,Potential Returning Customers
+1640,114,1,454745.41,3,Potential Returning Customers
+1641,373,1,413641.76,3,Potential Returning Customers
+1643,660,1,313851.04,3,Potential Returning Customers
+1644,132,2,804744.42,2,Loyal Customers
+1645,1259,1,546800.59,0,Inactive Customers
+1646,52,3,1208500.46,1,VIP Customers
+1647,576,2,749494.61,2,Loyal Customers
+1650,49,1,441810.24,3,Potential Returning Customers
+1652,662,1,382113.79,3,Potential Returning Customers
+1653,1069,1,423022.13,0,Inactive Customers
+1658,343,2,762462.87,2,Loyal Customers
+1659,598,1,215726.66,3,Potential Returning Customers
+1661,689,3,1256205.32,1,VIP Customers
+1662,1273,1,328224.48,0,Inactive Customers
+1663,1071,1,402016.8,0,Inactive Customers
+1666,575,1,288343.47,3,Potential Returning Customers
+1668,155,3,1449963.62,1,VIP Customers
+1670,1119,1,492188.56,0,Inactive Customers
+1671,382,2,898777.46,2,Loyal Customers
+1672,338,1,371777.56,3,Potential Returning Customers
+1673,59,2,642329.4,2,Loyal Customers
+1674,946,1,273337.18,0,Inactive Customers
+1676,972,1,313358.24,0,Inactive Customers
+1680,885,2,796648.65,2,Loyal Customers
+1686,71,2,832905.9,2,Loyal Customers
+1688,1320,1,428091.43,0,Inactive Customers
+1696,184,2,834907.44,2,Loyal Customers
+1699,941,1,409815.34,0,Inactive Customers
+1707,6,2,1013714.46,2,Loyal Customers
+1708,327,1,386068.17,3,Potential Returning Customers
+1709,1099,1,335598.18,0,Inactive Customers
+1710,326,2,910618.24,2,Loyal Customers
+1711,469,2,882535.1,2,Loyal Customers
+1712,1412,1,189020.65,0,Inactive Customers
+1713,1131,1,224833.09,0,Inactive Customers
+1714,530,2,755866.69,2,Loyal Customers
+1715,264,1,386967.6,3,Potential Returning Customers
+1716,1195,1,343763.49,0,Inactive Customers
+1717,1199,1,604123.23,0,Inactive Customers
+1718,609,1,504084.42,3,Potential Returning Customers
+1722,1102,1,463894.29,0,Inactive Customers
+1725,6,1,491899.29,3,Potential Returning Customers
+1726,312,1,383889.34,3,Potential Returning Customers
+1727,371,1,392641.47,3,Potential Returning Customers
+1729,87,3,938738.89,1,VIP Customers
+1730,100,2,617492.98,2,Loyal Customers
+1731,538,3,1437300.59,1,VIP Customers
+1732,550,1,561098.09,3,Potential Returning Customers
+1733,437,1,420753.7,3,Potential Returning Customers
+1736,856,1,386498.49,0,Inactive Customers
+1737,1172,1,396115.35,0,Inactive Customers
+1742,466,2,922905.89,2,Loyal Customers
+1743,360,1,459699.7,3,Potential Returning Customers
+1744,595,1,350645.3,3,Potential Returning Customers
+1745,252,1,489295.12,3,Potential Returning Customers
+1746,901,1,571305.73,0,Inactive Customers
+1748,154,1,408912.56,3,Potential Returning Customers
+1749,833,1,367175.5,0,Inactive Customers
+1754,1302,1,444234.94,0,Inactive Customers
+1755,916,1,458500.73,0,Inactive Customers
+1756,658,1,489575.66,3,Potential Returning Customers
+1758,637,2,1211103.17,2,Loyal Customers
+1761,900,2,861279.43,2,Loyal Customers
+1766,143,1,480348.83,3,Potential Returning Customers
+1768,598,1,414188.63,3,Potential Returning Customers
+1769,830,2,972879.56,2,Loyal Customers
+1770,866,2,669327.3,2,Loyal Customers
+1771,227,1,386502.86,3,Potential Returning Customers
+1775,628,1,423511.24,3,Potential Returning Customers
+1776,224,1,429176.71,3,Potential Returning Customers
+1782,95,1,473278.8,3,Potential Returning Customers
+1784,46,1,331537.32,3,Potential Returning Customers
+1787,987,1,325405.65,0,Inactive Customers
+1789,1073,1,284444.31,0,Inactive Customers
+1793,1307,1,562775.37,0,Inactive Customers
+1796,297,1,521235.2,3,Potential Returning Customers
+1798,426,2,916114.6,2,Loyal Customers
+1800,769,2,823958.69,2,Loyal Customers
+1804,864,2,702764.53,2,Loyal Customers
+1806,161,2,907744.91,2,Loyal Customers
+1807,476,1,443618.04,3,Potential Returning Customers
+1810,1251,1,397457.78,0,Inactive Customers
+1811,235,2,959847.88,2,Loyal Customers
+1813,1274,1,589549.01,0,Inactive Customers
+1816,1255,1,418682.48,0,Inactive Customers
+1820,1262,1,369203.42,0,Inactive Customers
+1821,1089,1,411586.42,0,Inactive Customers
+1822,12,3,1357936.99,1,VIP Customers
+1824,761,1,210977.4,0,Inactive Customers
+1826,1110,1,379250.04,0,Inactive Customers
+1828,533,1,480039.57,3,Potential Returning Customers
+1829,249,1,513138.74,3,Potential Returning Customers
+1832,916,1,435576.81,0,Inactive Customers
+1834,547,1,542036.98,3,Potential Returning Customers
+1836,1334,1,424279.91,0,Inactive Customers
+1840,1096,1,472251.43,0,Inactive Customers
+1842,7,2,932145.95,2,Loyal Customers
+1843,594,1,368836.65,3,Potential Returning Customers
+1844,38,2,934776.47,2,Loyal Customers
+1845,432,3,1483191.46,1,VIP Customers
+1849,403,1,499005.6,3,Potential Returning Customers
+1851,223,1,530234.15,3,Potential Returning Customers
+1853,1133,1,302217.2,0,Inactive Customers
+1854,851,2,836359.13,2,Loyal Customers
+1855,430,1,311059.76,3,Potential Returning Customers
+1859,777,1,361796.41,0,Inactive Customers
+1860,125,1,560663.05,3,Potential Returning Customers
+1861,1108,1,395170.87,0,Inactive Customers
+1862,776,3,1432876.46,1,VIP Customers
+1866,477,2,906460.83,2,Loyal Customers
+1867,1149,1,430576.53,0,Inactive Customers
+1869,1241,1,295919.83,0,Inactive Customers
+1870,303,1,440931.69,3,Potential Returning Customers
+1871,1187,1,433550.27,0,Inactive Customers
+1872,967,1,584138.78,0,Inactive Customers
+1873,1309,1,477293.84,0,Inactive Customers
+1874,369,2,915942.65,2,Loyal Customers
+1877,255,2,694196.44,2,Loyal Customers
+1878,189,1,556317.41,3,Potential Returning Customers
+1879,626,2,994486.05,2,Loyal Customers
+1880,83,2,875777.08,2,Loyal Customers
+1882,1179,1,443660.12,0,Inactive Customers
+1883,1138,1,376014.94,0,Inactive Customers
+1884,699,2,853232.64,2,Loyal Customers
+1886,86,1,405800.71,3,Potential Returning Customers
+1887,229,2,775143.47,2,Loyal Customers
+1888,1165,1,462133.59,0,Inactive Customers
+1892,1246,1,486243,0,Inactive Customers
+1893,793,1,397570.68,0,Inactive Customers
+1898,319,1,488397.21,3,Potential Returning Customers
+1901,228,2,831890.62,2,Loyal Customers
+1903,172,1,535270.26,3,Potential Returning Customers
+1909,1202,2,827934.84,2,Loyal Customers
+1912,173,1,439083.99,3,Potential Returning Customers
+1913,155,1,536638.94,3,Potential Returning Customers
+1918,1338,1,318467.92,0,Inactive Customers
+1919,359,1,389707.72,3,Potential Returning Customers
+1921,293,1,292380.07,3,Potential Returning Customers
+1922,88,2,902430.87,2,Loyal Customers
+1923,560,2,1047056.18,2,Loyal Customers
+1928,656,1,679024.81,3,Potential Returning Customers
+1929,452,1,536091.2,3,Potential Returning Customers
+1931,568,1,524520.68,3,Potential Returning Customers
+1933,253,1,385807.64,3,Potential Returning Customers
+1936,61,1,395240.87,3,Potential Returning Customers
+1938,969,2,854560.36,2,Loyal Customers
+1944,288,1,282653.33,3,Potential Returning Customers
+1949,1335,1,332594.58,0,Inactive Customers
+1952,619,1,490236.09,3,Potential Returning Customers
+1955,257,3,1184145.5,1,VIP Customers
+1956,480,1,434053.19,3,Potential Returning Customers
+1957,183,1,565912.9,3,Potential Returning Customers
+1962,359,1,345796.93,3,Potential Returning Customers
+1964,706,1,392558,3,Potential Returning Customers
+1965,83,1,497722.52,3,Potential Returning Customers
+1967,1041,2,436454.74,0,Inactive Customers
+1971,1252,1,385290.8,0,Inactive Customers
+1973,1292,1,418264.8,0,Inactive Customers
+1975,231,2,842183.36,2,Loyal Customers
+1976,922,1,401692,0,Inactive Customers
+1977,239,2,997205.55,2,Loyal Customers
+1978,473,1,657378.45,3,Potential Returning Customers
+1982,1040,2,895258.57,2,Loyal Customers
+1987,1044,1,384529.98,0,Inactive Customers
+1988,891,1,330167.75,0,Inactive Customers
+1989,743,1,548297.46,0,Inactive Customers
+1992,371,3,1187907.9,1,VIP Customers
+2000,800,1,513138.94,0,Inactive Customers
+2004,281,1,609279.27,3,Potential Returning Customers
+2005,674,2,810337.78,2,Loyal Customers
+2009,187,2,752064.65,2,Loyal Customers
+2010,610,1,545608.03,3,Potential Returning Customers
+2011,1158,1,426131.56,0,Inactive Customers
+2013,24,1,291605.14,3,Potential Returning Customers
+2016,340,1,429667.67,3,Potential Returning Customers
+2017,474,1,508589.39,3,Potential Returning Customers
+2019,613,2,948142.5,2,Loyal Customers
+2022,660,1,295491.14,3,Potential Returning Customers
+2025,1184,1,426939.24,0,Inactive Customers
+2032,931,1,439657.03,0,Inactive Customers
+2038,607,2,942498.82,2,Loyal Customers
+2040,998,1,369033.14,0,Inactive Customers
+2041,1402,1,404595.1,0,Inactive Customers
+2043,900,2,562091.26,2,Loyal Customers
+2046,1396,1,361903.74,0,Inactive Customers
+2047,609,1,389305.14,3,Potential Returning Customers
+2048,125,1,412211.95,3,Potential Returning Customers
+2049,288,2,1054606.73,2,Loyal Customers
+2054,78,1,313645.29,3,Potential Returning Customers
+2057,1056,1,385660.85,0,Inactive Customers
+2058,617,2,741281.19,2,Loyal Customers
+2059,623,1,575000.47,3,Potential Returning Customers
+2061,353,1,760442.35,3,Potential Returning Customers
+2063,157,1,405049.04,3,Potential Returning Customers
+2066,481,2,1108049.02,2,Loyal Customers
+2067,741,1,578015.79,0,Inactive Customers
+2070,1128,1,495374.14,0,Inactive Customers
+2071,943,1,488038.78,0,Inactive Customers
+2075,217,1,375490.87,3,Potential Returning Customers
+2077,1259,1,365539.97,0,Inactive Customers
+2081,23,1,412552.37,3,Potential Returning Customers
+2082,797,1,363117.78,0,Inactive Customers
+2085,19,1,721132.34,3,Potential Returning Customers
+2086,963,1,390022.95,0,Inactive Customers
+2093,498,1,319283.04,3,Potential Returning Customers
+2095,1326,1,400903.88,0,Inactive Customers
+2097,388,1,493081.88,3,Potential Returning Customers
+2099,971,1,391169.49,0,Inactive Customers
+2103,68,1,390232.41,3,Potential Returning Customers
+2104,1013,2,900414.15,2,Loyal Customers
+2105,1168,1,354516.95,0,Inactive Customers
+2106,364,1,261603.92,3,Potential Returning Customers
+2107,142,1,432407.52,3,Potential Returning Customers
+2108,1318,1,480437.67,0,Inactive Customers
+2111,134,1,381822.5,3,Potential Returning Customers
+2112,469,2,929294.4,2,Loyal Customers
+2118,402,1,328026.41,3,Potential Returning Customers
+2122,1400,1,328490.07,0,Inactive Customers
+2124,1004,1,343008.07,0,Inactive Customers
+2126,1213,1,318737.71,0,Inactive Customers
+2133,589,1,330927.84,3,Potential Returning Customers
+2134,251,1,644835.44,3,Potential Returning Customers
+2137,294,2,835042.8,2,Loyal Customers
+2142,430,1,387811.55,3,Potential Returning Customers
+2143,1040,1,530188.94,0,Inactive Customers
+2144,426,2,812355.49,2,Loyal Customers
+2145,54,1,380075.17,3,Potential Returning Customers
+2147,432,1,469077.2,3,Potential Returning Customers
+2149,43,3,1008054.64,1,VIP Customers
+2150,871,2,785799.48,2,Loyal Customers
+2154,279,1,428801.15,3,Potential Returning Customers
+2155,1289,1,538844.54,0,Inactive Customers
+2156,754,1,385394.7,0,Inactive Customers
+2157,302,1,596735.59,3,Potential Returning Customers
+2158,1316,2,850556.22,2,Loyal Customers
+2159,1189,1,397333.34,0,Inactive Customers
+2161,214,1,452665.43,3,Potential Returning Customers
+2163,166,1,453966.74,3,Potential Returning Customers
+2164,1141,1,440207.24,0,Inactive Customers
+2166,1171,1,306191.62,0,Inactive Customers
+2174,922,1,433550.65,0,Inactive Customers
+2177,593,1,381225.76,3,Potential Returning Customers
+2178,915,1,614036.91,0,Inactive Customers
+2181,62,1,480419.75,3,Potential Returning Customers
+2183,469,2,808517.36,2,Loyal Customers
+2185,1229,1,323946.65,0,Inactive Customers
+2187,909,1,358001.24,0,Inactive Customers
+2190,555,2,840294.11,2,Loyal Customers
+2191,902,1,249066.84,0,Inactive Customers
+2195,213,1,335828.27,3,Potential Returning Customers
+2197,282,1,443761.9,3,Potential Returning Customers
+2198,1138,1,308723.59,0,Inactive Customers
+2205,557,1,391615.54,3,Potential Returning Customers
+2207,501,2,914969.96,2,Loyal Customers
+2209,719,1,416936.44,3,Potential Returning Customers
+2210,660,2,806785.07,2,Loyal Customers
+2211,249,1,470403.29,3,Potential Returning Customers
+2215,164,1,316401.67,3,Potential Returning Customers
+2216,349,1,543728.47,3,Potential Returning Customers
+2218,783,2,796362.03,2,Loyal Customers
+2219,740,1,273810.63,0,Inactive Customers
+2221,1405,1,446912.7,0,Inactive Customers
+2223,591,1,288308.64,3,Potential Returning Customers
+2224,1362,1,497159.72,0,Inactive Customers
+2230,32,1,718094.89,3,Potential Returning Customers
+2232,928,2,867623.23,2,Loyal Customers
+2233,435,1,488947.5,3,Potential Returning Customers
+2234,1031,1,511019.98,0,Inactive Customers
+2235,915,1,492654,0,Inactive Customers
+2236,163,1,536118.54,3,Potential Returning Customers
+2237,308,2,644381.97,2,Loyal Customers
+2238,218,2,595440.72,2,Loyal Customers
+2239,633,1,370662.21,3,Potential Returning Customers
+2240,570,1,456716.28,3,Potential Returning Customers
+2241,1104,1,302228.32,0,Inactive Customers
+2242,396,3,1448674.58,1,VIP Customers
+2244,353,2,706997.11,2,Loyal Customers
+2246,323,2,779490.76,2,Loyal Customers
+2254,1076,2,952118.44,2,Loyal Customers
+2256,1386,1,455655.31,0,Inactive Customers
+2257,497,2,762481.21,2,Loyal Customers
+2260,619,2,998447.04,2,Loyal Customers
+2261,1260,1,432961.84,0,Inactive Customers
+2263,818,1,447185.8,0,Inactive Customers
+2265,688,1,429807.5,3,Potential Returning Customers
+2266,1171,1,471519.46,0,Inactive Customers
+2268,246,2,1021919.28,2,Loyal Customers
+2272,125,2,707478.65,2,Loyal Customers
+2276,554,2,686939.58,2,Loyal Customers
+2278,569,1,441388.94,3,Potential Returning Customers
+2280,1041,1,445574.95,0,Inactive Customers
+2282,987,1,483730.78,0,Inactive Customers
+2286,783,1,504967.47,0,Inactive Customers
+2290,1288,1,260810.94,0,Inactive Customers
+2291,1243,1,425444.58,0,Inactive Customers
+2294,645,2,832745.19,2,Loyal Customers
+2296,50,3,1647933.06,1,VIP Customers
+2303,1234,1,255483,0,Inactive Customers
+2304,72,1,372265.78,3,Potential Returning Customers
+2307,1052,1,296897.21,0,Inactive Customers
+2308,231,2,592133.73,2,Loyal Customers
+2310,434,1,388942.14,3,Potential Returning Customers
+2312,81,1,244021.61,3,Potential Returning Customers
+2315,1305,1,238929.71,0,Inactive Customers
+2316,239,1,412590.35,3,Potential Returning Customers
+2319,390,1,366280.87,3,Potential Returning Customers
+2320,956,2,917644.8,2,Loyal Customers
+2323,657,1,453680.4,3,Potential Returning Customers
+2324,1068,1,398335.74,0,Inactive Customers
+2325,948,2,693881.04,2,Loyal Customers
+2326,1417,1,268179.31,0,Inactive Customers
+2328,397,2,844867.81,2,Loyal Customers
+2329,21,4,1839913.27,1,VIP Customers
+2331,915,1,441177.9,0,Inactive Customers
+2333,996,2,658045.49,2,Loyal Customers
+2337,291,1,392563.38,3,Potential Returning Customers
+2338,215,1,445553.26,3,Potential Returning Customers
+2339,538,2,811708.53,2,Loyal Customers
+2343,1206,1,507741.69,0,Inactive Customers
+2346,617,2,775805.71,2,Loyal Customers
+2348,325,2,711519.74,2,Loyal Customers
+2349,827,1,525164.26,0,Inactive Customers
+2350,332,1,298836.7,3,Potential Returning Customers
+2351,441,1,518041.55,3,Potential Returning Customers
+2356,570,2,966952.08,2,Loyal Customers
+2357,114,2,756221.76,2,Loyal Customers
+2361,30,2,598601.75,2,Loyal Customers
+2362,1204,1,473330.5,0,Inactive Customers
+2364,415,2,926004.81,2,Loyal Customers
+2366,904,1,317845.78,0,Inactive Customers
+2367,1082,1,476214.26,0,Inactive Customers
+2369,611,1,514086.65,3,Potential Returning Customers
+2374,478,1,323831.51,3,Potential Returning Customers
+2375,1147,1,495665.13,0,Inactive Customers
+2376,238,1,530679.09,3,Potential Returning Customers
+2377,528,2,898208.3,2,Loyal Customers
+2380,371,1,335596.36,3,Potential Returning Customers
+2381,207,2,944616.92,2,Loyal Customers
+2382,1336,1,420321.62,0,Inactive Customers
+2386,996,1,509481.66,0,Inactive Customers
+2389,942,2,754960.26,2,Loyal Customers
+2390,622,2,880996.58,2,Loyal Customers
+2392,917,1,418951.52,0,Inactive Customers
+2396,432,1,253656.18,3,Potential Returning Customers
+2397,14,1,206591.23,3,Potential Returning Customers
+2398,211,1,498106.94,3,Potential Returning Customers
+2402,1371,1,459837.25,0,Inactive Customers
+2404,398,1,340762.21,3,Potential Returning Customers
+2405,620,1,370165.69,3,Potential Returning Customers
+2406,739,1,591279.19,0,Inactive Customers
+2407,284,2,912589.31,2,Loyal Customers
+2411,1112,1,490899.67,0,Inactive Customers
+2413,497,1,443727.03,3,Potential Returning Customers
+2414,1148,1,242494.23,0,Inactive Customers
+2415,594,1,478211.09,3,Potential Returning Customers
+2416,201,1,336453.1,3,Potential Returning Customers
+2418,440,1,494768.75,3,Potential Returning Customers
+2420,818,1,508004.89,0,Inactive Customers
+2421,412,2,868359.08,2,Loyal Customers
+2422,965,1,331220.9,0,Inactive Customers
+2424,388,1,390731.46,3,Potential Returning Customers
+2429,1230,1,440123.6,0,Inactive Customers
+2430,1103,1,371531.58,0,Inactive Customers
+2431,902,1,571370.47,0,Inactive Customers
+2432,849,2,1111963.29,2,Loyal Customers
+2436,638,1,455183.8,3,Potential Returning Customers
+2437,1349,1,479854.47,0,Inactive Customers
+2439,648,2,766674.86,2,Loyal Customers
+2440,1280,1,495370.75,0,Inactive Customers
+2441,32,1,442150.9,3,Potential Returning Customers
+2445,289,2,904343.75,2,Loyal Customers
+2447,1004,1,378455.9,0,Inactive Customers
+2448,481,1,363096.84,3,Potential Returning Customers
+2449,372,1,414639.53,3,Potential Returning Customers
+2451,194,2,752803.89,2,Loyal Customers
+2455,1315,1,286566.14,0,Inactive Customers
+2458,98,1,380625.66,3,Potential Returning Customers
+2460,542,1,371678.37,3,Potential Returning Customers
+2461,680,1,331211.18,3,Potential Returning Customers
+2463,611,1,717679.19,3,Potential Returning Customers
+2470,1218,1,576546.57,0,Inactive Customers
+2472,28,2,754901.51,2,Loyal Customers
+2476,1390,1,606799.19,0,Inactive Customers
+2477,168,1,433922.52,3,Potential Returning Customers
+2479,648,1,325546.53,3,Potential Returning Customers
+2484,419,2,811869.41,2,Loyal Customers
+2486,1313,1,509347.16,0,Inactive Customers
+2487,496,2,765371.68,2,Loyal Customers
+2492,1344,1,442763.04,0,Inactive Customers
+2497,902,1,487865.26,0,Inactive Customers
+2498,188,1,446711.26,3,Potential Returning Customers
+2501,928,1,530190.43,0,Inactive Customers
+2502,1142,1,307963.52,0,Inactive Customers
+2504,1339,1,422566.24,0,Inactive Customers
+2505,591,1,362460.34,3,Potential Returning Customers
+2506,944,1,275078.16,0,Inactive Customers
+2514,816,1,470122.25,0,Inactive Customers
+2515,910,1,491569.08,0,Inactive Customers
+2518,377,2,1000473.87,2,Loyal Customers
+2519,1099,1,438347.87,0,Inactive Customers
+2521,414,1,343208.63,3,Potential Returning Customers
+2522,1160,1,355928.32,0,Inactive Customers
+2526,242,1,317178.75,3,Potential Returning Customers
+2529,867,2,976126.67,2,Loyal Customers
+2531,263,1,395317.31,3,Potential Returning Customers
+2532,556,1,532393.84,3,Potential Returning Customers
+2533,261,1,310052.35,3,Potential Returning Customers
+2537,222,2,705761.09,2,Loyal Customers
+2538,951,1,447788.46,0,Inactive Customers
+2541,152,1,323306.08,3,Potential Returning Customers
+2543,560,2,808192.16,2,Loyal Customers
+2547,950,2,969573.9,2,Loyal Customers
+2548,445,1,328242.65,3,Potential Returning Customers
+2549,716,1,349339.52,3,Potential Returning Customers
+2554,647,1,276331.99,3,Potential Returning Customers
+2558,1125,1,448286.37,0,Inactive Customers
+2561,1073,1,407231.28,0,Inactive Customers
+2563,1251,1,394146.59,0,Inactive Customers
+2564,271,1,351066.58,3,Potential Returning Customers
+2565,606,1,468553.11,3,Potential Returning Customers
+2566,627,1,358072.63,3,Potential Returning Customers
+2568,381,1,319135.34,3,Potential Returning Customers
+2569,88,1,388017.8,3,Potential Returning Customers
+2573,519,2,930584.78,2,Loyal Customers
+2574,887,2,758782.38,2,Loyal Customers
+2576,1289,1,579461.33,0,Inactive Customers
+2580,925,1,469292.18,0,Inactive Customers
+2581,1334,1,368938.24,0,Inactive Customers
+2584,956,1,578369.75,0,Inactive Customers
+2586,363,1,358257.48,3,Potential Returning Customers
+2588,912,1,500884.36,0,Inactive Customers
+2590,658,1,326496.14,3,Potential Returning Customers
+2592,1305,1,413332.44,0,Inactive Customers
+2594,499,1,713173.59,3,Potential Returning Customers
+2597,680,1,458894.8,3,Potential Returning Customers
+2599,84,2,839458.63,2,Loyal Customers
+2602,1317,1,277435.89,0,Inactive Customers
+2605,1195,1,453851.54,0,Inactive Customers
+2609,747,1,480057.17,0,Inactive Customers
+2614,723,1,347678.09,3,Potential Returning Customers
+2624,537,1,362067.75,3,Potential Returning Customers
+2626,857,1,465112.04,0,Inactive Customers
+2627,440,1,370244.06,3,Potential Returning Customers
+2630,964,1,314768.61,0,Inactive Customers
+2631,1290,1,482038.86,0,Inactive Customers
+2633,10,2,854883.69,2,Loyal Customers
+2635,85,1,493524.75,3,Potential Returning Customers
+2636,275,1,351925.39,3,Potential Returning Customers
+2637,795,1,389483.12,0,Inactive Customers
+2638,1049,1,356794.3,0,Inactive Customers
+2639,182,3,1048658.71,1,VIP Customers
+2640,1168,1,386992.46,0,Inactive Customers
+2641,389,1,446556.37,3,Potential Returning Customers
+2642,273,1,399865.06,3,Potential Returning Customers
+2643,129,1,528009.56,3,Potential Returning Customers
+2644,1356,1,438099.79,0,Inactive Customers
+2648,1006,1,333982.52,0,Inactive Customers
+2650,1011,1,266841.63,0,Inactive Customers
+2658,89,2,1095208.45,2,Loyal Customers
+2660,653,1,498918.58,3,Potential Returning Customers
+2662,1117,1,391398.37,0,Inactive Customers
+2667,1215,1,408779.53,0,Inactive Customers
+2668,855,2,851659.91,2,Loyal Customers
+2669,32,1,468806.43,3,Potential Returning Customers
+2673,139,1,251156.48,3,Potential Returning Customers
+2675,1347,1,320925.74,0,Inactive Customers
+2676,1,2,787767.14,2,Loyal Customers
+2681,1358,2,887549.73,2,Loyal Customers
+2687,83,2,1059434.45,2,Loyal Customers
+2688,1316,1,445606.81,0,Inactive Customers
+2689,124,1,416305.48,3,Potential Returning Customers
+2690,302,1,491636.92,3,Potential Returning Customers
+2691,1115,1,652151.46,0,Inactive Customers
+2694,874,2,880450.24,2,Loyal Customers
+2699,546,1,377062.52,3,Potential Returning Customers
+2703,301,3,1305426.68,1,VIP Customers
+2705,799,2,840929.51,2,Loyal Customers
+2709,108,1,288461.95,3,Potential Returning Customers
+2711,478,1,337850.65,3,Potential Returning Customers
+2712,169,2,930614.94,2,Loyal Customers
+2713,647,2,537823.18,2,Loyal Customers
+2715,771,1,408784.76,0,Inactive Customers
+2716,316,1,359770.54,3,Potential Returning Customers
+2720,206,2,661626.01,2,Loyal Customers
+2722,175,1,389192.98,3,Potential Returning Customers
+2728,217,1,481664.62,3,Potential Returning Customers
+2732,1237,1,489843.35,0,Inactive Customers
+2733,224,1,348890.46,3,Potential Returning Customers
+2734,236,1,501019.83,3,Potential Returning Customers
+2735,341,3,1187884.85,1,VIP Customers
+2736,890,2,775718.49,2,Loyal Customers
+2738,1408,1,402145.94,0,Inactive Customers
+2740,332,1,534033.83,3,Potential Returning Customers
+2741,590,1,489830.38,3,Potential Returning Customers
+2742,42,3,1207016.33,1,VIP Customers
+2744,18,1,338533.5,3,Potential Returning Customers
+2745,1309,1,409526.34,0,Inactive Customers
+2746,230,1,423452.7,3,Potential Returning Customers
+2754,522,2,1087296.6,2,Loyal Customers
+2758,435,2,822131.25,2,Loyal Customers
+2759,1298,1,365546.29,0,Inactive Customers
+2760,1347,1,629206.87,0,Inactive Customers
+2763,605,1,455174.52,3,Potential Returning Customers
+2764,768,1,403796.48,0,Inactive Customers
+2766,1098,1,351949.63,0,Inactive Customers
+2771,1175,1,306622.98,0,Inactive Customers
+2772,603,2,737179.58,2,Loyal Customers
+2773,458,1,395258.71,3,Potential Returning Customers
+2774,444,1,339878.02,3,Potential Returning Customers
+2776,914,1,438401.07,0,Inactive Customers
+2779,1115,1,475606.23,0,Inactive Customers
+2781,227,3,1299215.5,1,VIP Customers
+2782,493,2,1016363.74,2,Loyal Customers
+2783,118,1,394071.52,3,Potential Returning Customers
+2784,1278,1,430400.32,0,Inactive Customers
+2791,630,1,540738.48,3,Potential Returning Customers
+2792,130,2,713837.1,2,Loyal Customers
+2793,1255,1,418387.91,0,Inactive Customers
+2796,1152,2,753294.12,2,Loyal Customers
+2801,290,2,805381.33,2,Loyal Customers
+2804,17,1,399360.34,3,Potential Returning Customers
+2805,686,2,783125.63,2,Loyal Customers
+2807,217,3,1108240.05,1,VIP Customers
+2808,436,1,513621.96,3,Potential Returning Customers
+2814,281,3,1072977.84,1,VIP Customers
+2815,17,4,1643277.35,1,VIP Customers
+2817,171,1,442043.47,3,Potential Returning Customers
+2819,1128,3,1416601.65,1,VIP Customers
+2822,1322,1,503396.2,0,Inactive Customers
+2824,195,2,792006.49,2,Loyal Customers
+2830,424,1,303042.17,3,Potential Returning Customers
+2833,577,1,589180.06,3,Potential Returning Customers
+2834,1253,1,404064.44,0,Inactive Customers
+2836,122,1,591210.99,3,Potential Returning Customers
+2837,73,1,363416.96,3,Potential Returning Customers
+2838,240,1,505512.51,3,Potential Returning Customers
+2839,88,2,865377.46,2,Loyal Customers
+2843,133,3,1331025.75,1,VIP Customers
+2845,1143,1,310653.4,0,Inactive Customers
+2847,356,1,454794.99,3,Potential Returning Customers
+2848,771,1,595833.36,0,Inactive Customers
+2853,1201,1,383887.21,0,Inactive Customers
+2855,925,1,410794.64,0,Inactive Customers
+2856,548,1,425290.77,3,Potential Returning Customers
+2858,374,1,363643.99,3,Potential Returning Customers
+2859,702,1,467156.87,3,Potential Returning Customers
+2860,238,1,498295,3,Potential Returning Customers
+2863,1188,1,395452.29,0,Inactive Customers
+2864,1219,1,504201.54,0,Inactive Customers
+2866,230,2,1009344.57,2,Loyal Customers
+2867,400,1,456417.56,3,Potential Returning Customers
+2870,958,1,695610.19,0,Inactive Customers
+2874,1194,1,396937.34,0,Inactive Customers
+2875,750,1,533348.37,0,Inactive Customers
+2877,1084,1,508616.89,0,Inactive Customers
+2878,1056,1,295393.2,0,Inactive Customers
+2879,286,2,940623,2,Loyal Customers
+2885,736,1,477371.22,0,Inactive Customers
+2886,187,1,588451.35,3,Potential Returning Customers
+2887,496,1,466535.65,3,Potential Returning Customers
+2888,1115,1,349669.71,0,Inactive Customers
+2890,573,1,418364.61,3,Potential Returning Customers
+2891,1181,1,337605.4,0,Inactive Customers
+2895,654,2,808086.11,2,Loyal Customers
+2896,163,3,1584806.13,1,VIP Customers
+2897,254,2,910683.77,2,Loyal Customers
+2898,56,2,948527.51,2,Loyal Customers
+2901,152,2,1112070.94,2,Loyal Customers
+2902,745,1,515892.7,0,Inactive Customers
+2903,1063,1,268723.62,0,Inactive Customers
+2905,1409,1,343845.88,0,Inactive Customers
+2906,632,2,1031269.29,2,Loyal Customers
+2907,620,1,459279.12,3,Potential Returning Customers
+2909,736,1,378266.77,0,Inactive Customers
+2910,1404,1,334076.93,0,Inactive Customers
+2912,793,1,429390.36,0,Inactive Customers
+2914,700,1,391817.33,3,Potential Returning Customers
+2917,1382,1,333168.57,0,Inactive Customers
+2919,118,2,1021678.33,2,Loyal Customers
+2920,1346,1,433010.29,0,Inactive Customers
+2922,919,1,416878.71,0,Inactive Customers
+2923,837,1,264855.12,0,Inactive Customers
+2926,749,1,434036.76,0,Inactive Customers
+2928,1276,1,435221.73,0,Inactive Customers
+2932,921,2,1025924.46,2,Loyal Customers
+2936,759,1,420082.94,0,Inactive Customers
+2939,1335,1,486394.59,0,Inactive Customers
+2941,213,1,409314.39,3,Potential Returning Customers
+2943,1327,1,352654.53,0,Inactive Customers
+2944,999,1,442910.08,0,Inactive Customers
+2947,998,2,630502.97,2,Loyal Customers
+2948,8,2,873417.37,2,Loyal Customers
+2949,279,2,856837.71,2,Loyal Customers
+2953,903,1,468566.99,0,Inactive Customers
+2955,562,1,526805.34,3,Potential Returning Customers
+2956,730,1,471955.94,0,Inactive Customers
+2957,1243,2,733915.9,2,Loyal Customers
+2959,126,2,695460.72,2,Loyal Customers
+2964,145,3,1380656.08,1,VIP Customers
+2966,369,2,866272.29,2,Loyal Customers
+2967,1359,2,907760.08,2,Loyal Customers
+2968,1221,2,593560.27,0,Inactive Customers
+2969,557,2,764553.95,2,Loyal Customers
+2971,95,1,292715.34,3,Potential Returning Customers
+2972,1236,1,452721.78,0,Inactive Customers
+2976,799,2,911903.76,2,Loyal Customers
+2977,1199,1,483516.71,0,Inactive Customers
+2978,605,2,649993.7,2,Loyal Customers
+2983,399,2,730693.83,2,Loyal Customers
+2984,890,1,488936.31,0,Inactive Customers
+2986,192,3,1294880.47,1,VIP Customers
+2994,171,2,708666.55,2,Loyal Customers
+2995,955,2,1004713.58,2,Loyal Customers
+2997,237,1,453027.66,3,Potential Returning Customers
+3001,469,1,309039.54,3,Potential Returning Customers
+3009,1340,1,323891.34,0,Inactive Customers
+3010,595,1,432231.8,3,Potential Returning Customers
+3014,1414,1,397457.6,0,Inactive Customers
+3018,82,1,380790.89,3,Potential Returning Customers
+3019,181,2,672801.31,2,Loyal Customers
+3021,1280,1,517148.38,0,Inactive Customers
+3027,563,1,249767.35,3,Potential Returning Customers
+3030,98,2,1387267.62,1,VIP Customers
+3031,714,1,409718.2,3,Potential Returning Customers
+3036,525,1,266668.46,3,Potential Returning Customers
+3037,789,1,423076.55,0,Inactive Customers
+3038,66,2,502030.33,2,Loyal Customers
+3039,89,1,585601.92,3,Potential Returning Customers
+3041,225,1,461685.77,3,Potential Returning Customers
+3042,261,3,1199794.95,1,VIP Customers
+3043,1394,1,332945.87,0,Inactive Customers
+3045,460,1,342945.38,3,Potential Returning Customers
+3047,560,1,373340.49,3,Potential Returning Customers
+3049,497,1,310522.69,3,Potential Returning Customers
+3052,1333,1,291070.11,0,Inactive Customers
+3053,652,2,945345.79,2,Loyal Customers
+3054,734,1,554200.57,0,Inactive Customers
+3057,1368,1,367196.91,0,Inactive Customers
+3058,1203,1,277466.09,0,Inactive Customers
+3062,992,2,924580.26,2,Loyal Customers
+3063,470,1,543709.57,3,Potential Returning Customers
+3070,563,2,1003401.65,2,Loyal Customers
+3073,946,1,442125.91,0,Inactive Customers
+3075,725,1,383430.3,3,Potential Returning Customers
+3077,626,1,410286.39,3,Potential Returning Customers
+3078,419,1,307590.43,3,Potential Returning Customers
+3082,477,1,509315.28,3,Potential Returning Customers
+3083,14,2,1094398.2,2,Loyal Customers
+3085,916,2,987713.71,2,Loyal Customers
+3086,301,2,680058.8,2,Loyal Customers
+3087,1115,1,336656.97,0,Inactive Customers
+3088,769,1,471304.05,0,Inactive Customers
+3089,1138,1,471909.23,0,Inactive Customers
+3090,1317,1,532901.02,0,Inactive Customers
+3091,784,3,1328328.22,1,VIP Customers
+3092,111,1,386801.28,3,Potential Returning Customers
+3093,157,2,885472.03,2,Loyal Customers
+3094,1041,1,528894.36,0,Inactive Customers
+3095,283,1,356096.71,3,Potential Returning Customers
+3100,1018,1,493032.3,0,Inactive Customers
+3101,805,1,305309.68,0,Inactive Customers
+3102,438,1,243316.75,3,Potential Returning Customers
+3103,118,1,452282.51,3,Potential Returning Customers
+3109,690,2,654351.28,2,Loyal Customers
+3113,60,3,1146430.22,1,VIP Customers
+3114,271,1,321777.08,3,Potential Returning Customers
+3115,384,1,494016.46,3,Potential Returning Customers
+3117,127,1,362810.72,3,Potential Returning Customers
+3118,457,3,1390837.51,1,VIP Customers
+3120,1392,1,466015.53,0,Inactive Customers
+3122,1417,1,501152.26,0,Inactive Customers
+3123,202,1,431234.46,3,Potential Returning Customers
+3124,838,1,414984.18,0,Inactive Customers
+3125,629,2,746040.06,2,Loyal Customers
+3126,857,1,447718.28,0,Inactive Customers
+3128,1419,1,482684.82,0,Inactive Customers
+3138,762,1,443162.41,0,Inactive Customers
+3139,316,1,410621.37,3,Potential Returning Customers
+3143,1318,1,374752.32,0,Inactive Customers
+3144,1057,2,794979.73,2,Loyal Customers
+3145,232,2,698353.28,2,Loyal Customers
+3146,190,1,466446.97,3,Potential Returning Customers
+3147,887,3,1125981.57,1,VIP Customers
+3148,198,1,572762.42,3,Potential Returning Customers
+3151,647,2,1075672.49,2,Loyal Customers
+3154,105,1,412872.45,3,Potential Returning Customers
+3158,1224,2,607912.25,0,Inactive Customers
+3160,1404,1,392459.33,0,Inactive Customers
+3161,467,2,682432.56,2,Loyal Customers
+3167,1317,1,287513.4,0,Inactive Customers
+3170,511,1,534444.51,3,Potential Returning Customers
+3171,1118,1,344089.79,0,Inactive Customers
+3172,871,2,865659.38,2,Loyal Customers
+3174,892,1,440843.53,0,Inactive Customers
+3176,1308,1,344299.94,0,Inactive Customers
+3182,138,1,479769.07,3,Potential Returning Customers
+3183,1014,1,482271.17,0,Inactive Customers
+3185,389,1,448478.96,3,Potential Returning Customers
+3187,311,1,354339.73,3,Potential Returning Customers
+3189,83,3,1371248.53,1,VIP Customers
+3195,1104,1,423139.86,0,Inactive Customers
+3200,741,2,636993.41,2,Loyal Customers
+3201,296,1,472577.01,3,Potential Returning Customers
+3202,124,2,860691.55,2,Loyal Customers
+3208,172,2,1093011.82,2,Loyal Customers
+3209,707,1,606759.82,3,Potential Returning Customers
+3211,101,1,455367.89,3,Potential Returning Customers
+3215,839,1,490902.94,0,Inactive Customers
+3216,121,1,343775.85,3,Potential Returning Customers
+3218,1132,1,441126.34,0,Inactive Customers
+3220,105,1,401066.03,3,Potential Returning Customers
+3221,787,1,513775.78,0,Inactive Customers
+3223,223,1,479340.28,3,Potential Returning Customers
+3225,49,1,408463.08,3,Potential Returning Customers
+3227,1250,1,427325.7,0,Inactive Customers
+3229,52,1,399184.48,3,Potential Returning Customers
+3232,674,1,366324.89,3,Potential Returning Customers
+3236,1190,1,409406.2,0,Inactive Customers
+3239,709,1,620599.07,3,Potential Returning Customers
+3241,179,3,1257022.28,1,VIP Customers
+3243,316,1,579966.06,3,Potential Returning Customers
+3244,35,1,448899.32,3,Potential Returning Customers
+3248,908,1,254112.87,0,Inactive Customers
+3249,985,1,538588.64,0,Inactive Customers
+3250,2,1,385662.18,3,Potential Returning Customers
+3255,1420,1,363590.9,0,Inactive Customers
+3259,823,2,634645.04,2,Loyal Customers
+3261,1017,1,724367.62,0,Inactive Customers
+3263,499,2,1007269.6,2,Loyal Customers
+3267,1025,1,452919.59,0,Inactive Customers
+3271,917,1,476076.59,0,Inactive Customers
+3272,537,3,1186426.73,1,VIP Customers
+3276,809,2,623628.09,2,Loyal Customers
+3277,44,1,401681.4,3,Potential Returning Customers
+3278,901,2,864559.51,2,Loyal Customers
+3280,741,1,407130.06,0,Inactive Customers
+3281,518,1,378995.06,3,Potential Returning Customers
+3282,794,2,849944.01,2,Loyal Customers
+3288,755,1,406817.55,0,Inactive Customers
+3292,1032,1,753066.68,0,Inactive Customers
+3293,1395,1,458504.89,0,Inactive Customers
+3294,1166,1,445479.35,0,Inactive Customers
+3295,72,2,723262.74,2,Loyal Customers
+3296,89,2,1059499.86,2,Loyal Customers
+3297,367,1,480212.12,3,Potential Returning Customers
+3298,99,1,337952.21,3,Potential Returning Customers
+3299,331,1,261378.93,3,Potential Returning Customers
+3301,785,1,312477.65,0,Inactive Customers
+3302,1241,1,361560.58,0,Inactive Customers
+3303,300,2,872759.33,2,Loyal Customers
+3305,840,1,453293.76,0,Inactive Customers
+3306,517,1,455985.64,3,Potential Returning Customers
+3307,249,2,976857.63,2,Loyal Customers
+3309,317,1,503654.78,3,Potential Returning Customers
+3311,1014,1,459348.15,0,Inactive Customers
+3312,1333,1,478514.45,0,Inactive Customers
+3313,394,1,409423.49,3,Potential Returning Customers
+3314,1118,1,391888.03,0,Inactive Customers
+3315,1400,1,474678.17,0,Inactive Customers
+3322,348,2,509065.93,2,Loyal Customers
+3323,1198,1,418006.64,0,Inactive Customers
+3324,1142,1,515590.43,0,Inactive Customers
+3326,429,1,359547.85,3,Potential Returning Customers
+3329,1320,1,236321.21,0,Inactive Customers
+3330,820,1,352678.85,0,Inactive Customers
+3333,333,2,727901.89,2,Loyal Customers
+3336,426,2,862468.63,2,Loyal Customers
+3337,1024,1,405224.18,0,Inactive Customers
+3338,225,2,638841.51,2,Loyal Customers
+3343,1131,2,766427.99,2,Loyal Customers
+3352,331,1,488768.12,3,Potential Returning Customers
+3357,81,2,853711.55,2,Loyal Customers
+3358,1152,1,489336.3,0,Inactive Customers
+3361,543,2,777594.63,2,Loyal Customers
+3363,155,1,523584.28,3,Potential Returning Customers
+3364,27,3,1404915.66,1,VIP Customers
+3369,213,1,394566.53,3,Potential Returning Customers
+3371,732,2,787136.99,2,Loyal Customers
+3372,646,2,840050.02,2,Loyal Customers
+3373,1038,1,457544.32,0,Inactive Customers
+3375,591,1,395049.21,3,Potential Returning Customers
+3376,351,2,767309.31,2,Loyal Customers
+3377,1264,1,297824.04,0,Inactive Customers
+3380,373,1,369780.02,3,Potential Returning Customers
+3381,532,2,889224.22,2,Loyal Customers
+3386,1331,1,673203.81,0,Inactive Customers
+3388,272,2,1078815.32,2,Loyal Customers
+3392,1228,2,796362,2,Loyal Customers
+3400,212,1,393357.51,3,Potential Returning Customers
+3407,423,1,321147.19,3,Potential Returning Customers
+3408,112,2,953907.97,2,Loyal Customers
+3409,542,1,530224.75,3,Potential Returning Customers
+3410,898,1,508180.56,0,Inactive Customers
+3411,794,1,339090.39,0,Inactive Customers
+3413,592,2,922539.14,2,Loyal Customers
+3415,29,1,279349.84,3,Potential Returning Customers
+3418,984,1,447231.38,0,Inactive Customers
+3423,137,1,463271.09,3,Potential Returning Customers
+3427,807,1,442505.03,0,Inactive Customers
+3430,1170,1,519738.36,0,Inactive Customers
+3432,472,1,353160.18,3,Potential Returning Customers
+3434,1257,1,465748.52,0,Inactive Customers
+3436,770,1,404276.52,0,Inactive Customers
+3437,633,2,584271.51,2,Loyal Customers
+3439,751,2,1049146.78,2,Loyal Customers
+3452,984,1,527239.24,0,Inactive Customers
+3455,571,1,434300.19,3,Potential Returning Customers
+3457,622,1,303256.1,3,Potential Returning Customers
+3460,494,2,888331,2,Loyal Customers
+3462,877,2,709791.63,2,Loyal Customers
+3465,520,1,424554.44,3,Potential Returning Customers
+3467,503,1,228447.12,3,Potential Returning Customers
+3468,187,1,590449.53,3,Potential Returning Customers
+3469,783,1,312433.21,0,Inactive Customers
+3470,900,1,366309.95,0,Inactive Customers
+3471,1297,1,423124.95,0,Inactive Customers
+3472,852,1,375243.32,0,Inactive Customers
+3473,1079,1,267634.77,0,Inactive Customers
+3474,1409,1,400242.7,0,Inactive Customers
+3475,1221,1,444123.99,0,Inactive Customers
+3476,522,2,896550.32,2,Loyal Customers
+3479,563,2,834769.37,2,Loyal Customers
+3480,1404,1,500057.83,0,Inactive Customers
+3483,686,1,315832.62,3,Potential Returning Customers
+3484,407,3,1499360.45,1,VIP Customers
+3485,1301,1,406276.93,0,Inactive Customers
+3489,16,2,903877.59,2,Loyal Customers
+3490,656,1,462324.46,3,Potential Returning Customers
+3492,998,1,398906.62,0,Inactive Customers
+3494,331,1,452893.28,3,Potential Returning Customers
+3496,265,2,922336.81,2,Loyal Customers
+3506,647,2,1165158.25,2,Loyal Customers
+3508,295,2,839097.24,2,Loyal Customers
+3510,482,1,532561.04,3,Potential Returning Customers
+3512,607,2,790097.84,2,Loyal Customers
+3514,1353,1,283300.61,0,Inactive Customers
+3516,404,2,765244.78,2,Loyal Customers
+3520,808,1,298414.36,0,Inactive Customers
+3523,1232,1,555387.23,0,Inactive Customers
+3524,873,1,340468.75,0,Inactive Customers
+3526,575,1,476944.26,3,Potential Returning Customers
+3531,1145,1,359832.69,0,Inactive Customers
+3533,263,3,1351925.79,1,VIP Customers
+3538,211,1,452268.92,3,Potential Returning Customers
+3539,298,1,454114.33,3,Potential Returning Customers
+3540,31,2,947289.19,2,Loyal Customers
+3542,83,1,445115.93,3,Potential Returning Customers
+3543,1321,1,528133.33,0,Inactive Customers
+3545,86,1,467100.29,3,Potential Returning Customers
+3546,278,1,419252.09,3,Potential Returning Customers
+3547,625,2,861636.83,2,Loyal Customers
+3548,895,1,442783.59,0,Inactive Customers
+3549,1248,1,311804.58,0,Inactive Customers
+3552,1109,2,752119.06,2,Loyal Customers
+3553,761,1,438210.8,0,Inactive Customers
+3556,357,1,296968.43,3,Potential Returning Customers
+3558,1058,1,297058.47,0,Inactive Customers
+3562,1060,1,394210.93,0,Inactive Customers
+3565,1230,1,349598.24,0,Inactive Customers
+3566,266,1,424490.66,3,Potential Returning Customers
+3567,1334,1,561459.88,0,Inactive Customers
+3570,536,1,364818.38,3,Potential Returning Customers
+3575,502,1,420554.83,3,Potential Returning Customers
+3577,126,1,477201.04,3,Potential Returning Customers
+3580,74,1,351873.73,3,Potential Returning Customers
+3581,616,1,263488.45,3,Potential Returning Customers
+3584,377,3,821396.3,2,Loyal Customers
+3589,1180,1,213548.07,0,Inactive Customers
+3593,33,2,973609.36,2,Loyal Customers
+3595,1170,1,687061.17,0,Inactive Customers
+3597,1218,1,389082.41,0,Inactive Customers
+3599,53,1,608381.79,3,Potential Returning Customers
+3601,152,1,585241.48,3,Potential Returning Customers
+3603,1007,2,867858.39,2,Loyal Customers
+3604,1261,1,403573.36,0,Inactive Customers
+3605,393,2,909688.01,2,Loyal Customers
+3606,615,1,394844.99,3,Potential Returning Customers
+3609,553,1,564960.31,3,Potential Returning Customers
+3611,632,1,415571.64,3,Potential Returning Customers
+3613,1393,1,321596.07,0,Inactive Customers
+3614,865,1,448901.09,0,Inactive Customers
+3615,962,1,301382.1,0,Inactive Customers
+3616,267,2,602947.26,2,Loyal Customers
+3617,147,1,394312.32,3,Potential Returning Customers
+3618,1195,1,397282.85,0,Inactive Customers
+3623,219,1,293530.84,3,Potential Returning Customers
+3624,1076,1,381113.97,0,Inactive Customers
+3625,806,2,833244.66,2,Loyal Customers
+3626,473,1,380277.72,3,Potential Returning Customers
+3627,652,2,1024165.21,2,Loyal Customers
+3628,1144,1,338937.08,0,Inactive Customers
+3632,1232,2,963672.04,2,Loyal Customers
+3634,147,2,903370.73,2,Loyal Customers
+3635,310,1,329189.49,3,Potential Returning Customers
+3638,172,1,451814.9,3,Potential Returning Customers
+3642,1141,1,588804.43,0,Inactive Customers
+3645,1236,1,500136,0,Inactive Customers
+3646,606,2,859681.58,2,Loyal Customers
+3650,66,2,792834.68,2,Loyal Customers
+3651,491,3,1078958.66,1,VIP Customers
+3654,744,2,877132.07,2,Loyal Customers
+3655,303,3,1270959.36,1,VIP Customers
+3659,117,1,478193.61,3,Potential Returning Customers
+3661,1292,1,515023.49,0,Inactive Customers
+3662,122,1,297101.11,3,Potential Returning Customers
+3667,306,1,264734.24,3,Potential Returning Customers
+3668,45,1,477377.82,3,Potential Returning Customers
+3669,140,2,772065.43,2,Loyal Customers
+3670,7,1,533044.32,3,Potential Returning Customers
+3671,792,1,462135.19,0,Inactive Customers
+3672,1375,1,404852.37,0,Inactive Customers
+3673,116,2,1031098.6,2,Loyal Customers
+3676,369,2,1074804.75,2,Loyal Customers
+3680,805,1,316146.14,0,Inactive Customers
+3681,2,1,439082.14,3,Potential Returning Customers
+3683,365,1,462545.27,3,Potential Returning Customers
+3689,296,1,394814.39,3,Potential Returning Customers
+3693,490,1,747611.99,3,Potential Returning Customers
+3694,894,1,252660.09,0,Inactive Customers
+3695,578,1,343312.73,3,Potential Returning Customers
+3696,1280,1,491888.13,0,Inactive Customers
+3699,166,1,646189.15,3,Potential Returning Customers
+3700,1195,1,231071.13,0,Inactive Customers
+3705,1085,1,406876.06,0,Inactive Customers
+3706,319,1,341979.73,3,Potential Returning Customers
+3709,1342,1,518399.28,0,Inactive Customers
+3711,378,1,360822.33,3,Potential Returning Customers
+3714,808,1,489944.49,0,Inactive Customers
+3716,297,1,285404.26,3,Potential Returning Customers
+3719,759,1,461275.11,0,Inactive Customers
+3720,301,1,335501.15,3,Potential Returning Customers
+3721,1368,2,1067119.22,2,Loyal Customers
+3722,96,1,302195.04,3,Potential Returning Customers
+3723,161,1,283212.68,3,Potential Returning Customers
+3724,765,1,412391.96,0,Inactive Customers
+3726,90,1,382166.97,3,Potential Returning Customers
+3730,1217,1,530130.24,0,Inactive Customers
+3732,200,1,446744.5,3,Potential Returning Customers
+3733,9,1,532666.88,3,Potential Returning Customers
+3734,265,2,846239.98,2,Loyal Customers
+3735,1400,1,301304.52,0,Inactive Customers
+3736,1122,1,375485.88,0,Inactive Customers
+3737,714,2,759970.03,2,Loyal Customers
+3740,1245,1,442138.1,0,Inactive Customers
+3741,222,2,740029.14,2,Loyal Customers
+3745,616,1,441800.35,3,Potential Returning Customers
+3746,1263,1,457359.12,0,Inactive Customers
+3747,1201,1,352055.55,0,Inactive Customers
+3749,58,1,413284.31,3,Potential Returning Customers
+3754,1300,1,431120.14,0,Inactive Customers
+3755,1227,1,526089.78,0,Inactive Customers
+3757,1098,1,368904.52,0,Inactive Customers
+3759,1164,1,670034.99,0,Inactive Customers
+3761,290,1,161498.64,3,Potential Returning Customers
+3766,499,1,454369.38,3,Potential Returning Customers
+3767,541,1,301881.04,3,Potential Returning Customers
+3768,248,2,831514.9,2,Loyal Customers
+3769,1406,1,436598.6,0,Inactive Customers
+3770,331,2,978837.63,2,Loyal Customers
+3772,1226,1,354632.82,0,Inactive Customers
+3774,104,2,788135.58,2,Loyal Customers
+3776,1166,1,419068.28,0,Inactive Customers
+3780,312,4,1673017.44,1,VIP Customers
+3781,294,1,287793.29,3,Potential Returning Customers
+3786,67,1,471927.03,3,Potential Returning Customers
+3788,221,1,361411.47,3,Potential Returning Customers
+3794,8,1,313385.06,3,Potential Returning Customers
+3799,712,3,1024585.21,1,VIP Customers
+3800,850,1,214062.03,0,Inactive Customers
+3801,569,1,567149.5,3,Potential Returning Customers
+3803,287,1,442209.67,3,Potential Returning Customers
+3808,248,2,594656.6,2,Loyal Customers
+3811,465,2,972735.85,2,Loyal Customers
+3812,1145,1,514462.61,0,Inactive Customers
+3816,798,3,1107145.88,1,VIP Customers
+3817,791,1,519241.19,0,Inactive Customers
+3821,1186,1,405443.74,0,Inactive Customers
+3822,274,1,441902.34,3,Potential Returning Customers
+3825,65,2,1097671.62,2,Loyal Customers
+3826,1256,1,450339.43,0,Inactive Customers
+3827,643,1,377458.84,3,Potential Returning Customers
+3829,891,2,740725.13,2,Loyal Customers
+3832,254,1,418260.79,3,Potential Returning Customers
+3836,84,1,543458.47,3,Potential Returning Customers
+3845,1328,1,394445.18,0,Inactive Customers
+3846,1087,1,602943.65,0,Inactive Customers
+3847,670,1,308866.61,3,Potential Returning Customers
+3848,1239,1,425599.01,0,Inactive Customers
+3849,788,2,810786.42,2,Loyal Customers
+3851,1170,1,260552.51,0,Inactive Customers
+3852,78,2,971013.31,2,Loyal Customers
+3856,936,2,748014.41,2,Loyal Customers
+3857,463,1,378009.64,3,Potential Returning Customers
+3858,59,1,356054.04,3,Potential Returning Customers
+3862,1015,1,384084.85,0,Inactive Customers
+3863,624,2,600237.9,2,Loyal Customers
+3865,335,1,300839.47,3,Potential Returning Customers
+3867,320,2,705008.38,2,Loyal Customers
+3868,123,1,408393.12,3,Potential Returning Customers
+3869,266,1,483162.1,3,Potential Returning Customers
+3870,43,2,884987.89,2,Loyal Customers
+3873,1279,1,285942.75,0,Inactive Customers
+3874,840,1,263283.76,0,Inactive Customers
+3875,343,2,779269.1,2,Loyal Customers
+3876,699,3,1269139.77,1,VIP Customers
+3877,785,3,1000064.15,1,VIP Customers
+3879,1360,2,699096.66,0,Inactive Customers
+3881,291,3,1041119.09,1,VIP Customers
+3882,16,5,2368569.5,1,VIP Customers
+3888,437,1,400174.88,3,Potential Returning Customers
+3890,1046,1,276416.95,0,Inactive Customers
+3892,1319,1,361192.95,0,Inactive Customers
+3896,378,1,506358.24,3,Potential Returning Customers
+3897,447,2,562484.82,2,Loyal Customers
+3898,56,1,379656.14,3,Potential Returning Customers
+3899,1268,1,393584.12,0,Inactive Customers
+3902,446,2,1018036.66,2,Loyal Customers
+3905,158,1,407971.92,3,Potential Returning Customers
+3906,1127,1,405940.8,0,Inactive Customers
+3907,493,1,409336.89,3,Potential Returning Customers
+3908,86,2,845303.39,2,Loyal Customers
+3909,879,1,382335.4,0,Inactive Customers
+3911,529,2,862717.56,2,Loyal Customers
+3913,813,1,449029.81,0,Inactive Customers
+3914,1183,2,858620.67,2,Loyal Customers
+3917,172,1,615070.02,3,Potential Returning Customers
+3920,1402,1,379967.99,0,Inactive Customers
+3921,549,1,503564.15,3,Potential Returning Customers
+3922,923,2,1068458.63,2,Loyal Customers
+3925,624,1,382274.6,3,Potential Returning Customers
+3929,412,2,749769.58,2,Loyal Customers
+3930,574,1,371554.42,3,Potential Returning Customers
+3931,1389,1,301723.82,0,Inactive Customers
+3933,111,2,727528.09,2,Loyal Customers
+3940,406,1,231664.24,3,Potential Returning Customers
+3943,561,2,915054.01,2,Loyal Customers
+3946,1343,1,474992.45,0,Inactive Customers
+3947,483,1,408074.71,3,Potential Returning Customers
+3948,445,1,387727.81,3,Potential Returning Customers
+3949,490,1,511262.01,3,Potential Returning Customers
+3950,235,1,364266.95,3,Potential Returning Customers
+3953,1230,1,482750.06,0,Inactive Customers
+3955,382,2,735055.65,2,Loyal Customers
+3956,514,1,522453.61,3,Potential Returning Customers
+3957,1160,2,953586.15,2,Loyal Customers
+3958,33,1,370010.63,3,Potential Returning Customers
+3960,152,2,1129000.11,2,Loyal Customers
+3961,234,1,376499.74,3,Potential Returning Customers
+3963,1311,1,623365.49,0,Inactive Customers
+3968,529,1,474258.88,3,Potential Returning Customers
+3969,1031,2,729268.48,2,Loyal Customers
+3970,1161,2,797690.86,2,Loyal Customers
+3973,1128,2,629476.9,2,Loyal Customers
+3974,739,1,323824.36,0,Inactive Customers
+3978,1415,1,383183.32,0,Inactive Customers
+3981,81,2,808688.44,2,Loyal Customers
+3982,217,2,735383.99,2,Loyal Customers
+3983,581,1,370507.58,3,Potential Returning Customers
+3986,1022,1,327120.67,0,Inactive Customers
+3987,608,2,707017.63,2,Loyal Customers
+3989,621,2,760878.2,2,Loyal Customers
+3990,1077,1,523437.42,0,Inactive Customers
+3992,486,2,969991.37,2,Loyal Customers
+3996,918,1,250204.14,0,Inactive Customers
+3997,1163,1,315547.2,0,Inactive Customers
+3998,493,1,554817.22,3,Potential Returning Customers
+4000,881,1,484081.28,0,Inactive Customers
+4002,713,1,359712.64,3,Potential Returning Customers
+4004,1349,1,446070.12,0,Inactive Customers
+4006,417,1,343658.64,3,Potential Returning Customers
+4011,751,1,507525.04,0,Inactive Customers
+4015,319,3,1040334.65,1,VIP Customers
+4016,832,1,428881.53,0,Inactive Customers
+4019,314,2,737703.38,2,Loyal Customers
+4020,917,1,418401.91,0,Inactive Customers
+4024,469,1,401697.84,3,Potential Returning Customers
+4026,489,1,401357.94,3,Potential Returning Customers
+4027,929,2,614565.09,2,Loyal Customers
+4028,1254,1,409537.09,0,Inactive Customers
+4029,136,2,778964.86,2,Loyal Customers
+4030,380,1,461662.66,3,Potential Returning Customers
+4031,1416,1,338660.79,0,Inactive Customers
+4033,115,1,457275.44,3,Potential Returning Customers
+4034,210,2,949986.44,2,Loyal Customers
+4037,463,1,241910,3,Potential Returning Customers
+4038,561,1,514891.2,3,Potential Returning Customers
+4041,1280,1,432502.04,0,Inactive Customers
+4043,1055,1,422555.95,0,Inactive Customers
+4044,11,1,329008.86,3,Potential Returning Customers
+4045,69,1,476816.19,3,Potential Returning Customers
+4050,11,3,1134807.7,1,VIP Customers
+4058,114,1,246264.53,3,Potential Returning Customers
+4061,708,1,495832.05,3,Potential Returning Customers
+4062,1020,1,478226.54,0,Inactive Customers
+4066,1365,1,338812.59,0,Inactive Customers
+4070,221,2,781461.03,2,Loyal Customers
+4071,766,1,530499.74,0,Inactive Customers
+4072,89,2,935668.74,2,Loyal Customers
+4073,1072,1,422434.71,0,Inactive Customers
+4075,540,1,369141.65,3,Potential Returning Customers
+4078,117,2,825737.51,2,Loyal Customers
+4080,240,2,883768.74,2,Loyal Customers
+4081,80,2,704082.79,2,Loyal Customers
+4083,36,4,1536317.63,1,VIP Customers
+4084,496,1,638491.85,3,Potential Returning Customers
+4087,584,1,294268.93,3,Potential Returning Customers
+4088,362,1,443468.22,3,Potential Returning Customers
+4089,1330,1,314503.96,0,Inactive Customers
+4090,564,1,445014.99,3,Potential Returning Customers
+4092,1040,1,352936.2,0,Inactive Customers
+4095,1182,2,919039.9,2,Loyal Customers
+4096,582,1,460539.31,3,Potential Returning Customers
+4097,993,1,354301.54,0,Inactive Customers
+4099,476,2,745139.36,2,Loyal Customers
+4101,351,3,1181476,1,VIP Customers
+4103,234,4,2291994.98,1,VIP Customers
+4105,398,4,1653629.53,1,VIP Customers
+4108,177,1,379909.14,3,Potential Returning Customers
+4109,736,1,444874.88,0,Inactive Customers
+4112,372,1,259026.8,3,Potential Returning Customers
+4113,1077,1,419220.43,0,Inactive Customers
+4115,727,1,557094.35,0,Inactive Customers
+4116,863,1,483972.26,0,Inactive Customers
+4117,299,1,486517.72,3,Potential Returning Customers
+4120,823,1,460314.26,0,Inactive Customers
+4122,860,2,877383.63,2,Loyal Customers
+4125,147,3,1315578.46,1,VIP Customers
+4130,1084,1,255803.88,0,Inactive Customers
+4131,1055,1,493597.84,0,Inactive Customers
+4133,744,1,505360.97,0,Inactive Customers
+4134,1313,1,327353.17,0,Inactive Customers
+4136,941,1,361150.56,0,Inactive Customers
+4139,884,1,293391.68,0,Inactive Customers
+4140,593,1,612664.34,3,Potential Returning Customers
+4141,417,1,497720.37,3,Potential Returning Customers
+4142,119,2,1019516.28,2,Loyal Customers
+4143,1230,1,296011.66,0,Inactive Customers
+4144,729,1,394025.87,0,Inactive Customers
+4145,1198,1,235654.65,0,Inactive Customers
+4146,147,2,882896.02,2,Loyal Customers
+4147,1158,1,335136.2,0,Inactive Customers
+4149,321,2,842904.31,2,Loyal Customers
+4150,1087,1,427755.81,0,Inactive Customers
+4152,51,2,1040332.08,2,Loyal Customers
+4154,806,2,790753.85,2,Loyal Customers
+4156,1273,1,407359.36,0,Inactive Customers
+4157,309,1,531055.08,3,Potential Returning Customers
+4159,1199,1,289820.17,0,Inactive Customers
+4168,1346,1,472425.02,0,Inactive Customers
+4170,253,1,249145.31,3,Potential Returning Customers
+4175,124,2,1015114.49,2,Loyal Customers
+4176,1181,1,443544.37,0,Inactive Customers
+4178,806,2,883801.75,2,Loyal Customers
+4188,855,1,423453.76,0,Inactive Customers
+4189,998,1,750225.9,0,Inactive Customers
+4191,649,1,439722.28,3,Potential Returning Customers
+4195,932,1,399318.68,0,Inactive Customers
+4199,1296,1,496447.11,0,Inactive Customers
+4202,310,1,477480.96,3,Potential Returning Customers
+4203,1004,1,777693.9,0,Inactive Customers
+4207,1083,1,300855.66,0,Inactive Customers
+4209,958,1,415726.49,0,Inactive Customers
+4213,321,2,932782.03,2,Loyal Customers
+4219,841,1,524093.5,0,Inactive Customers
+4220,499,1,314386.32,3,Potential Returning Customers
+4222,1033,1,590783.34,0,Inactive Customers
+4223,1213,1,409536.01,0,Inactive Customers
+4224,895,1,446542.3,0,Inactive Customers
+4227,398,1,503418.13,3,Potential Returning Customers
+4228,1253,2,716071,2,Loyal Customers
+4231,13,2,735484.82,2,Loyal Customers
+4232,797,1,447960.21,0,Inactive Customers
+4233,1027,1,651492.69,0,Inactive Customers
+4236,9,1,396211.05,3,Potential Returning Customers
+4240,477,1,433040.84,3,Potential Returning Customers
+4243,145,1,544269.84,3,Potential Returning Customers
+4245,493,2,705947.99,2,Loyal Customers
+4246,278,2,1005736.13,2,Loyal Customers
+4247,197,2,807989.91,2,Loyal Customers
+4248,1141,1,362028.24,0,Inactive Customers
+4251,506,1,475854.67,3,Potential Returning Customers
+4252,378,1,301463.95,3,Potential Returning Customers
+4253,64,1,403240.57,3,Potential Returning Customers
+4257,1292,1,341539.07,0,Inactive Customers
+4258,1315,1,565405.39,0,Inactive Customers
+4260,142,2,1012174.87,2,Loyal Customers
+4270,223,1,492365.75,3,Potential Returning Customers
+4272,152,1,521985.1,3,Potential Returning Customers
+4283,1235,1,418103.33,0,Inactive Customers
+4288,865,1,528525.9,0,Inactive Customers
+4289,124,4,1992742.89,1,VIP Customers
+4291,288,2,955228.58,2,Loyal Customers
+4293,345,3,1115060.16,1,VIP Customers
+4294,760,1,554302.24,0,Inactive Customers
+4295,1003,1,399857.72,0,Inactive Customers
+4296,1087,1,493545,0,Inactive Customers
+4297,231,3,1442726.73,1,VIP Customers
+4302,43,1,335403.02,3,Potential Returning Customers
+4303,616,1,570358.41,3,Potential Returning Customers
+4304,722,1,511480.49,3,Potential Returning Customers
+4305,1238,1,504492.42,0,Inactive Customers
+4307,643,1,440463.71,3,Potential Returning Customers
+4308,236,1,370384.91,3,Potential Returning Customers
+4309,405,1,434941.69,3,Potential Returning Customers
+4311,492,1,297108.16,3,Potential Returning Customers
+4312,1286,1,342050.19,0,Inactive Customers
+4314,486,1,444901.59,3,Potential Returning Customers
+4315,960,1,297866.37,0,Inactive Customers
+4318,54,1,467143.51,3,Potential Returning Customers
+4319,1374,1,339388.69,0,Inactive Customers
+4320,168,1,272669,3,Potential Returning Customers
+4322,1343,1,445934.73,0,Inactive Customers
+4324,77,1,427505.26,3,Potential Returning Customers
+4325,1055,1,432033.77,0,Inactive Customers
+4327,93,1,218905.13,3,Potential Returning Customers
+4328,645,1,528317.04,3,Potential Returning Customers
+4329,435,1,523500.8,3,Potential Returning Customers
+4331,445,2,824152.3,2,Loyal Customers
+4339,145,1,392299.69,3,Potential Returning Customers
+4341,220,1,470322.6,3,Potential Returning Customers
+4345,1217,1,444479.23,0,Inactive Customers
+4348,501,2,1067657.44,2,Loyal Customers
+4350,1031,2,708980.92,2,Loyal Customers
+4352,753,2,883754.15,2,Loyal Customers
+4354,399,1,440153.5,3,Potential Returning Customers
+4361,72,1,538127.07,3,Potential Returning Customers
+4363,1242,1,352244.43,0,Inactive Customers
+4364,1363,1,495136.29,0,Inactive Customers
+4367,712,1,343888.76,3,Potential Returning Customers
+4368,177,1,316699.7,3,Potential Returning Customers
+4370,1049,1,411537.22,0,Inactive Customers
+4373,966,2,1006985.13,2,Loyal Customers
+4375,576,1,436833.62,3,Potential Returning Customers
+4376,224,1,593144.46,3,Potential Returning Customers
+4378,80,1,263074.88,3,Potential Returning Customers
+4379,970,1,377554.81,0,Inactive Customers
+4381,1045,1,438827.73,0,Inactive Customers
+4382,80,1,605162.73,3,Potential Returning Customers
+4385,1413,1,421260.42,0,Inactive Customers
+4386,97,2,908599.38,2,Loyal Customers
+4387,935,1,250276.54,0,Inactive Customers
+4388,799,1,421912.48,0,Inactive Customers
+4391,1246,1,386609.38,0,Inactive Customers
+4393,1148,1,310026.76,0,Inactive Customers
+4394,7,2,961677.22,2,Loyal Customers
+4397,327,1,369596.91,3,Potential Returning Customers
+4398,592,1,410035.73,3,Potential Returning Customers
+4399,686,2,681696.63,2,Loyal Customers
+4400,613,1,565836.69,3,Potential Returning Customers
+4401,858,2,841300.34,2,Loyal Customers
+4403,1163,2,937675.81,2,Loyal Customers
+4409,30,2,697221.8,2,Loyal Customers
+4411,335,1,292530.94,3,Potential Returning Customers
+4412,78,3,1278339.95,1,VIP Customers
+4414,454,1,544061.44,3,Potential Returning Customers
+4419,586,1,411221.53,3,Potential Returning Customers
+4421,1218,1,329913.08,0,Inactive Customers
+4423,1158,1,369053.96,0,Inactive Customers
+4425,662,2,1086804.15,2,Loyal Customers
+4429,702,1,296041.98,3,Potential Returning Customers
+4432,428,2,872538.3,2,Loyal Customers
+4435,329,1,574161.11,3,Potential Returning Customers
+4436,287,1,460414.55,3,Potential Returning Customers
+4441,276,1,421912.72,3,Potential Returning Customers
+4446,617,1,464610.94,3,Potential Returning Customers
+4448,716,1,533424.91,3,Potential Returning Customers
+4452,98,1,389074.29,3,Potential Returning Customers
+4454,550,2,910225.7,2,Loyal Customers
+4456,188,1,331050.37,3,Potential Returning Customers
+4457,387,1,336043.55,3,Potential Returning Customers
+4460,928,1,452913.15,0,Inactive Customers
+4463,147,3,1066287.2,1,VIP Customers
+4466,369,1,278715.61,3,Potential Returning Customers
+4468,985,1,343436.37,0,Inactive Customers
+4474,66,1,337706.16,3,Potential Returning Customers
+4477,671,1,254850.44,3,Potential Returning Customers
+4480,635,1,270660.57,3,Potential Returning Customers
+4481,335,1,499744.26,3,Potential Returning Customers
+4482,914,1,482265.39,0,Inactive Customers
+4483,296,1,442691.49,3,Potential Returning Customers
+4484,651,1,403799.38,3,Potential Returning Customers
+4485,200,1,528850.07,3,Potential Returning Customers
+4486,1313,1,276479.41,0,Inactive Customers
+4489,1141,1,479798.7,0,Inactive Customers
+4490,8,1,274692.89,3,Potential Returning Customers
+4491,604,1,348408.01,3,Potential Returning Customers
+4492,383,1,458451.6,3,Potential Returning Customers
+4494,269,1,437727.56,3,Potential Returning Customers
+4496,758,1,292545.2,0,Inactive Customers
+4497,460,1,517323.31,3,Potential Returning Customers
+4500,1149,1,340219.21,0,Inactive Customers
+4504,561,1,366780.87,3,Potential Returning Customers
+4505,364,2,726710.97,2,Loyal Customers
+4506,127,1,477294.51,3,Potential Returning Customers
+4507,1322,1,323144.87,0,Inactive Customers
+4508,1027,1,355681.58,0,Inactive Customers
+4510,12,1,345917.81,3,Potential Returning Customers
+4512,1278,1,374480.21,0,Inactive Customers
+4515,968,1,520729.2,0,Inactive Customers
+4520,451,1,557301.42,3,Potential Returning Customers
+4522,1039,1,422992.04,0,Inactive Customers
+4524,969,2,1035575.01,2,Loyal Customers
+4526,883,1,309415.26,0,Inactive Customers
+4527,463,1,496600.86,3,Potential Returning Customers
+4528,724,1,367636.39,3,Potential Returning Customers
+4530,1320,1,466570.76,0,Inactive Customers
+4534,789,1,504816.35,0,Inactive Customers
+4535,384,2,725055.35,2,Loyal Customers
+4537,263,1,395293.49,3,Potential Returning Customers
+4538,462,1,348715.69,3,Potential Returning Customers
+4539,993,1,479786.58,0,Inactive Customers
+4540,144,3,1339648.28,1,VIP Customers
+4544,1097,1,436965.91,0,Inactive Customers
+4545,1333,1,378746.12,0,Inactive Customers
+4546,506,1,277599.37,3,Potential Returning Customers
+4547,786,1,444232.96,0,Inactive Customers
+4549,213,1,397817.55,3,Potential Returning Customers
+4550,378,1,426878.89,3,Potential Returning Customers
+4551,1101,1,305462.04,0,Inactive Customers
+4554,825,1,303813.94,0,Inactive Customers
+4556,439,2,788463.87,2,Loyal Customers
+4557,279,2,791413.86,2,Loyal Customers
+4559,638,1,417419.32,3,Potential Returning Customers
+4564,723,1,410146.07,3,Potential Returning Customers
+4565,1075,1,445454.42,0,Inactive Customers
+4566,1040,1,510559.19,0,Inactive Customers
+4567,537,1,446422.98,3,Potential Returning Customers
+4569,910,2,917479.99,2,Loyal Customers
+4570,273,1,293846.39,3,Potential Returning Customers
+4576,74,2,766216.65,2,Loyal Customers
+4577,613,2,879672.38,2,Loyal Customers
+4578,662,1,304410.44,3,Potential Returning Customers
+4579,178,1,370882.87,3,Potential Returning Customers
+4581,512,1,492257.83,3,Potential Returning Customers
+4586,1412,1,513027.21,0,Inactive Customers
+4587,1278,1,486637.87,0,Inactive Customers
+4589,206,1,610699.59,3,Potential Returning Customers
+4590,822,1,439056.66,0,Inactive Customers
+4591,918,1,365915.33,0,Inactive Customers
+4596,1216,1,333879.64,0,Inactive Customers
+4604,1368,1,467651.01,0,Inactive Customers
+4607,1245,1,252909.36,0,Inactive Customers
+4616,892,2,984029.3,2,Loyal Customers
+4619,1331,1,384739.73,0,Inactive Customers
+4621,1113,1,486752.68,0,Inactive Customers
+4623,73,1,488777.93,3,Potential Returning Customers
+4626,537,3,1161178.71,1,VIP Customers
+4629,1072,1,504674.57,0,Inactive Customers
+4630,743,1,458783.28,0,Inactive Customers
+4631,48,2,840910.37,2,Loyal Customers
+4632,756,1,406178.79,0,Inactive Customers
+4634,227,1,536501.08,3,Potential Returning Customers
+4635,694,1,304552.47,3,Potential Returning Customers
+4636,1015,1,484623.09,0,Inactive Customers
+4642,684,1,487747.92,3,Potential Returning Customers
+4643,404,1,418811.54,3,Potential Returning Customers
+4644,555,1,461156.38,3,Potential Returning Customers
+4645,471,2,808648.9,2,Loyal Customers
+4646,1320,1,363253.67,0,Inactive Customers
+4650,480,1,430376.84,3,Potential Returning Customers
+4651,220,1,639989.23,3,Potential Returning Customers
+4654,637,1,427099.35,3,Potential Returning Customers
+4655,484,2,916537.85,2,Loyal Customers
+4658,709,1,256621.49,3,Potential Returning Customers
+4659,404,1,514061.02,3,Potential Returning Customers
+4664,154,2,782072.09,2,Loyal Customers
+4665,141,1,553733.38,3,Potential Returning Customers
+4666,208,2,738169.93,2,Loyal Customers
+4672,856,1,593836.54,0,Inactive Customers
+4673,947,1,398680.04,0,Inactive Customers
+4674,372,1,194891.6,3,Potential Returning Customers
+4675,117,1,416040.84,3,Potential Returning Customers
+4676,724,3,1395696.28,1,VIP Customers
+4677,638,1,313563.69,3,Potential Returning Customers
+4680,474,2,773256.84,2,Loyal Customers
+4683,336,3,1282375.45,1,VIP Customers
+4691,66,1,506301.83,3,Potential Returning Customers
+4692,392,1,356055.09,3,Potential Returning Customers
+4695,1010,2,924681.54,2,Loyal Customers
+4698,977,1,315181.79,0,Inactive Customers
+4700,1099,1,524101.66,0,Inactive Customers
+4705,1261,1,419752.33,0,Inactive Customers
+4706,573,3,1310518.77,1,VIP Customers
+4707,1350,1,281396.37,0,Inactive Customers
+4710,1171,1,438931.53,0,Inactive Customers
+4711,1135,1,486649.48,0,Inactive Customers
+4713,159,2,1054501.83,2,Loyal Customers
+4714,991,1,299775.47,0,Inactive Customers
+4716,853,1,264419.72,0,Inactive Customers
+4717,1093,1,277636.88,0,Inactive Customers
+4718,828,1,522743.39,0,Inactive Customers
+4721,357,1,250002.82,3,Potential Returning Customers
+4722,325,1,673016.23,3,Potential Returning Customers
+4723,1279,1,380645.25,0,Inactive Customers
+4724,252,1,460086.85,3,Potential Returning Customers
+4725,471,2,812014.06,2,Loyal Customers
+4726,320,2,901802.78,2,Loyal Customers
+4729,868,1,221019.28,0,Inactive Customers
+4735,1152,1,379718.77,0,Inactive Customers
+4738,148,3,1264030.59,1,VIP Customers
+4739,962,1,463803.23,0,Inactive Customers
+4741,599,1,353917.28,3,Potential Returning Customers
+4746,145,1,434673.67,3,Potential Returning Customers
+4747,421,3,1508092.94,1,VIP Customers
+4748,1197,1,341687.05,0,Inactive Customers
+4749,222,1,441086.04,3,Potential Returning Customers
+4750,459,2,746886.2,2,Loyal Customers
+4753,118,1,377906.23,3,Potential Returning Customers
+4756,426,1,489425.73,3,Potential Returning Customers
+4757,1025,1,534950.83,0,Inactive Customers
+4758,1077,1,352337.25,0,Inactive Customers
+4760,610,2,819038.26,2,Loyal Customers
+4762,1375,1,564218.39,0,Inactive Customers
+4763,445,3,1126450.61,1,VIP Customers
+4765,80,1,446525.34,3,Potential Returning Customers
+4766,1041,1,397338.24,0,Inactive Customers
+4767,999,2,828518.97,2,Loyal Customers
+4768,184,1,291027.24,3,Potential Returning Customers
+4770,611,2,881734.27,2,Loyal Customers
+4772,90,1,413654.59,3,Potential Returning Customers
+4777,667,1,372881.71,3,Potential Returning Customers
+4778,868,1,446493.62,0,Inactive Customers
+4784,924,1,394057.02,0,Inactive Customers
+4788,847,1,484030.72,0,Inactive Customers
+4789,60,2,925876.78,2,Loyal Customers
+4790,1340,1,503427.08,0,Inactive Customers
+4791,365,1,312220.52,3,Potential Returning Customers
+4794,279,1,483724.23,3,Potential Returning Customers
+4795,560,1,382833.82,3,Potential Returning Customers
+4796,548,1,495623.32,3,Potential Returning Customers
+4798,552,1,577729.04,3,Potential Returning Customers
+4799,894,1,324250.11,0,Inactive Customers
+4800,358,1,329061.64,3,Potential Returning Customers
+4803,187,1,517320.27,3,Potential Returning Customers
+4805,1180,1,366289.96,0,Inactive Customers
+4808,302,2,1029605.13,2,Loyal Customers
+4815,549,1,306206.96,3,Potential Returning Customers
+4816,49,4,1527304.91,1,VIP Customers
+4817,486,1,341504.21,3,Potential Returning Customers
+4818,594,1,370287.43,3,Potential Returning Customers
+4820,160,3,1267282.12,1,VIP Customers
+4823,1223,1,498705.92,0,Inactive Customers
+4825,125,3,1473021.29,1,VIP Customers
+4826,783,1,543829.98,0,Inactive Customers
+4827,248,2,928903.32,2,Loyal Customers
+4828,978,1,453711.81,0,Inactive Customers
+4829,957,1,419559.71,0,Inactive Customers
+4830,1195,1,417968.75,0,Inactive Customers
+4831,501,1,577773.97,3,Potential Returning Customers
+4833,388,1,573086.9,3,Potential Returning Customers
+4834,1187,2,501922.37,0,Inactive Customers
+4835,1153,1,318367.2,0,Inactive Customers
+4837,1379,1,403681.82,0,Inactive Customers
+4838,27,1,360923.88,3,Potential Returning Customers
+4841,467,2,893142.01,2,Loyal Customers
+4843,1128,1,447439.91,0,Inactive Customers
+4844,3,1,639467.33,3,Potential Returning Customers
+4845,1172,1,319627.85,0,Inactive Customers
+4849,264,2,798588.63,2,Loyal Customers
+4850,1351,2,942166.04,2,Loyal Customers
+4855,983,1,499663.54,0,Inactive Customers
+4862,1120,2,848250.14,2,Loyal Customers
+4863,264,1,255547.25,3,Potential Returning Customers
+4867,427,1,465789.36,3,Potential Returning Customers
+4868,718,1,362569.29,3,Potential Returning Customers
+4869,112,1,398893.8,3,Potential Returning Customers
+4870,112,1,351038.4,3,Potential Returning Customers
+4872,799,1,652329.66,0,Inactive Customers
+4873,220,1,374788.59,3,Potential Returning Customers
+4874,515,2,790082.42,2,Loyal Customers
+4877,1311,1,527545.51,0,Inactive Customers
+4880,207,1,332132.78,3,Potential Returning Customers
+4882,639,2,949896.89,2,Loyal Customers
+4883,1396,1,372495.46,0,Inactive Customers
+4884,293,3,959081.39,1,VIP Customers
+4885,424,1,360556.07,3,Potential Returning Customers
+4890,159,1,529097.63,3,Potential Returning Customers
+4892,395,1,625833.01,3,Potential Returning Customers
+4897,546,1,449503.12,3,Potential Returning Customers
+4899,383,2,1005640.6,2,Loyal Customers
+4902,858,1,846598.24,0,Inactive Customers
+4903,805,1,496135.47,0,Inactive Customers
+4913,580,2,781331.34,2,Loyal Customers
+4914,186,1,381177.39,3,Potential Returning Customers
+4916,300,1,504008.99,3,Potential Returning Customers
+4919,335,3,1134095.41,1,VIP Customers
+4922,229,1,450015.16,3,Potential Returning Customers
+4925,596,1,361750.07,3,Potential Returning Customers
+4931,167,2,797251,2,Loyal Customers
+4933,1031,2,1004614.01,2,Loyal Customers
+4934,446,1,359985.67,3,Potential Returning Customers
+4937,941,1,268182.05,0,Inactive Customers
+4941,668,1,388611.77,3,Potential Returning Customers
+4943,827,2,806408.84,2,Loyal Customers
+4945,275,1,478015.24,3,Potential Returning Customers
+4946,1019,1,282103.39,0,Inactive Customers
+4947,720,1,556098.02,3,Potential Returning Customers
+4948,74,3,1283372.91,1,VIP Customers
+4951,1157,1,323101.38,0,Inactive Customers
+4954,1219,1,350735.1,0,Inactive Customers
+4961,226,1,416180.4,3,Potential Returning Customers
+4962,1203,1,377028.1,0,Inactive Customers
+4963,50,2,1136764.75,2,Loyal Customers
+4964,626,2,958381.87,2,Loyal Customers
+4965,42,2,1045895.54,2,Loyal Customers
+4971,507,1,386957.87,3,Potential Returning Customers
+4973,639,2,854515.17,2,Loyal Customers
+4975,669,2,791071.54,2,Loyal Customers
+4977,495,1,362391.6,3,Potential Returning Customers
+4982,135,3,1363105.37,1,VIP Customers
+4987,744,1,345926.45,0,Inactive Customers
+4989,1091,1,374521.66,0,Inactive Customers
+4990,454,1,445576.74,3,Potential Returning Customers
+4991,613,1,395300.5,3,Potential Returning Customers
+4993,560,1,281218.92,3,Potential Returning Customers
+4996,910,1,348270.8,0,Inactive Customers
+4999,253,2,987063.19,2,Loyal Customers
