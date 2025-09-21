@@ -1,4 +1,4 @@
-# 🎓 ITI-E-Commerce-Project-
+# 🎓 E-Commerce System - BI Edition
 This project demonstrates a complete end-to-end Business Intelligence workflow for an e-commerce dataset, covering everything from database design to advanced dashboarding.
 
 Business Value:
